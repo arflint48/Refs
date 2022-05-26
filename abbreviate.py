@@ -14,4 +14,3 @@ with open("abbrevrefs.bib", "w") as abbrevbib: #file the modified bibliography w
     abbrevbib.write(bib)
 
 abbrevbib.close()
-bib.close()
