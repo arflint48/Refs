@@ -9,6 +9,7 @@ for journal in journallist.readlines()[::-1]:
     full, abbrev = journal.strip().split(" = ")
     if full != full.upper() and (" " in full):
         bib = bib.replace(full.strip(), abbrev.strip())
+#bib = bib.replace("journal = {International", "journal = {Int.")
 
 with open("abbrevrefs.bib", "w") as abbrevbib: #file the modified bibliography will be written to
     abbrevbib.write(bib)
