@@ -14,4 +14,3 @@ Astrophysical Journal Supplement Series = ApJS
 Annual Review of Astronomy and Astrophysics = ARA&A
 The Astronomical Journal = AJ
 Astronomical Journal = AJ
-

@@ -5249,6 +5249,7 @@ Frontier Science Series = Front. Sci. Ser.
 Frontiers in Aging Neuroscience = Front. Aging Neurosci.
 Frontiers in Aging Series = Front. Aging Ser.
 Frontiers in Aquatic Physiology = Front. Aquat. Physiol.
+Frontiers in Astronomy and Space Sciences = Front. Astron. Space Sci.
 Frontiers in Behavioral Neuroscience = Front. Behav. Neurosci.
 Frontiers in Bioengineering and Biotechnology = Front. Bioeng. Biotechnol.
 Frontiers in Bioscience = Front. Biosci.
