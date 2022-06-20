@@ -11,7 +11,7 @@ apjlist = open("apjlist.txt")
 for apjref in apjlist.readlines():
     full, abbrev = apjref.strip().split(" = ")
     full = ("{" + full + "}")
-    if full != full.upper() and (" ") in full:
+    if full != full.upper():
         bib = bib.replace(full.strip(),("{" + abbrev.strip() + "}"))
 
 for journal in journallist.readlines(): #reads in each journal individually
