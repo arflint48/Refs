@@ -10681,6 +10681,7 @@ Nature Nanotechnology = Nat. Nanotechnol.
 Nature Neuroscience = Nat. Neurosci.
 Nature Photonics = Nat. Photonics
 Nature Physics = Nat. Phys.
+Nature Physical Science = Nat. Phys. Sci.
 Nature Plants = Nat. Plants
 Nature Protocols = Nat. Protoc.
 Nature Reviews Cancer = Nat. Rev. Cancer
