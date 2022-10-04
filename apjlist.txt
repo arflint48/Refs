@@ -71,3 +71,6 @@ Frontiers in Astronomy and Space Sciences = FrASS
 Frontiers in Earth Science = FrEaS
 Frontiers in Physics = FrP
 Frontiers in Space Technologies = FrST
+Space Science Reviews = SSRv
+Angewandte Chemie International Edition = AngCh
+Angewandte Chemie = AngCh

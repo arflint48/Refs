@@ -1250,6 +1250,7 @@ Annual Report of the Research Institute of Environmental Medicine, Nagoya Univer
 Annual Reports - Royal Society of Chemistry, Section Section A: Inorganic Chemistry = Annu. Rep. R. Soc. Chem. Sect. A: Inorg. Chem.
 Annual Reports - Royal Society of Chemistry, Section Section B: Organic Chemistry = Annu. Rep. R. Soc. Chem. Sect. B. Org. Chem.
 Annual Reports - Royal Society of Chemistry, Section Section C: Physical Chemistry = Annu. Rep. R. Soc. Chem. Sect. C. Phys. Chem.
+Annual Reports in Computational Chemistry = Annu. Rep. Comput. Chem.
 Annual Reports in Medicinal Chemistry = Annu. Rep. Med. Chem.
 Annual Reports on Analytical Atomic Spectroscopy = Annu. Rep. Anal. At. Spectrosc.
 Annual Reports on NMR Spectroscopy = Annu. Rep. NMR Spectrosc.
