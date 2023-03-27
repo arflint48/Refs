@@ -10660,6 +10660,7 @@ Natural Rubber Research = Nat. Rubber Res.
 Natural Toxins = Nat. Toxins
 Nature (London, United Kingdom) = Nature (London, U. K.)
 Nature = Nature
+Nature Astronomy = Nat. Astron.
 Nature Biotechnology = Nat. Biotechnol.
 Nature Cell Biology = Nat. Cell Biol.
 Nature Chemical Biology = Nat. Chem. Biol.
