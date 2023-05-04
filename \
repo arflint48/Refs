@@ -8,7 +8,7 @@ year = {2022}
 
 @article{Fortenberry21,
 author = {Ryan C. Fortenberry},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {The Formation of Astromolecule of Ethynyl Cyclopropenylidene ({C\textsubscript{3}HCCH}) from {C}\textsubscript{2}{H} and \textit{c}-{C}\textsubscript{3}{H}\textsubscript{2}},
 volume = {921},
 pages = {132-136},
@@ -17,7 +17,7 @@ year = {2021}
 
 @article{Lee85,
 author = {Timothy J. Lee and Annik Bunge and Henry F. Schaefer},
-journal = {J. Am. Chem. Soc.},
+journal = {Journal of the American Chemical Society},
 title = {Toward the laboratory identification of cyclopropenylidene},
 volume = {107},
 pages = {137-142},
@@ -26,7 +26,7 @@ year = {1985}
 
 @article{Werner20,
 author = {H.-J. Werner and Peter J. Knowles and Frederick R. Manby and Joshua A. Black and Klaus Doll and Andreas Hesselmann and Daniel Kats and Andreas K\"{o}hn and Tatiana Korona and David A. Kreplin and Qianli Ma and Thomas F. Miller and Alaxander Mitruschenkov and Kirk A. Peterson and Iakov Polyak and Guntram Rauhut and Marat Sibaev},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {The {M}olpro quantum chemistry package},
 volume = {152},
 pages = {144107},
@@ -35,7 +35,7 @@ year = {2020}
 
 @article{Stanton93,
 author = {John F. Stanton and Rodney J. Bartlett},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {{T}he equation of motion coupled‐cluster method. {A} systematic biorthogonal approach to molecular excitation energies, transition probabilities, and excited state properties},
 volume = {98},
 pages = {7029-7039},
@@ -44,7 +44,7 @@ year = {1993}
 
 @article{Peterson08,
 author = {Kirk A. Peterson and Thomas B. Adler and H.-J. Werner},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Systematically convergent basis sets for explicitly correlated wavefunctions: {T}he atoms {H}, {He}, {B-Ne}, and {Al-Ar}},
 volume = {128},
 pages = {084102-1},
@@ -53,7 +53,7 @@ year = {2008}
 
 @article{Adams41,
 author = {Walter S. Adams},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Some Reults with the {COUD\'{E}} Spectrograph of the {M}ount {W}ilson {O}bservatory.},
 volume = {93},
 pages = {11-23},
@@ -62,7 +62,7 @@ year = {1941}
 
 @article{Sims93,
 author = {Ian R. Sims and {J}ean-{L}ouis Queffelec and Daniel Travers and Bertrand R. Rowe and Lee B. Herbert and Joachim Karth\"{a}user and Ian W. M. Smith},
-journal = {Chem. Phys. Lett.},
+journal = {Chemical Physics Letters},
 title = {Rate constants for the reactions of {CN} with hydrocarbons at low and ultra-low temperatures},
 volume = {211},
 pages = {461-468},
@@ -80,7 +80,7 @@ year = {1963}
 
 @article{Cernicharo21d,
 author = {J. Cernicharo and M. Ag\'{u}ndez and C. Cabezas and B. Tercero and N. Marcelino and J. R. Pardo and P. de {V}incente},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Pure hydrocarbon cycles in {TMC-1}: Discovery of ethynyl cyclopropenylidene, cyclopentadiene, and indene},
 volume = {649},
 pages = {L15-L26},
@@ -89,7 +89,7 @@ year = {2021}
 
 @article{Turney12,
 author = {Justin M. Turney and Andrew C. Simmonett and Robert M. Parrish and Edward G. Hohenstein and Francesco A. Evangelista and Justin T. Fermann and Benjamin J. Mintz and Lori A. Burns and Jerimiah J. Wilke and Micah L. abrams and Nicholas J. Russ and Matthew L. Leininger and Curtis L. Janssen and Edward T Seidl and Wesley D. Allen and Henry F. Schaefer and Rollin A. King and Edward F. Valeev and C. David Sherrill and T. Daniel Crawford},
-journal = {WIREs Comput Mol Sci},
+journal = {Wiley Interdisciplinary Reviews: Computational Molecular Science},
 title = {{Psi}4: an open-source \textit{ab initio} electronic structure program},
 volume = {2},
 pages = {556-565},
@@ -98,7 +98,7 @@ year = {2012}
 
 @article{Parrish17,
 author = {Robert M. Parrish and Lori A. Burns and Daniel G. A. Smith and  Andrew C. Simminett and Eugene A. DePrince and Edward G Hohenstein and U\u{g}ur Bozkaya and Alexander Yu. Sololov and Roberto Di Remigio and Ryan M. Richard and J\'{e}r\^{o}me F. Gonthier and Andrew M. James and Harley R. McAlexander and Ashutosh Kumar and Masaaki Saitow and Xiao Wang and Benjamin P. Pritchard and Prakash Verma and Henry F. Schaefer and Konrad Patkowski and Rollin A. King and Edward F. Valeev and Francesco A. Evangelista and Justin M. Turney and T. Daniel Crawford and C. David Sherrill},
-journal = {J. Chem. Theory Comput.},
+journal = {Journal of Chemical Theory and Computation},
 title = {{Psi}4 1.1: An Open-Source Electronic Structure Program Emphasizing Automation, Advances Libraries, and Interoperability},
 volume = {13},
 pages = {3185-3197},
@@ -107,7 +107,7 @@ year = {2017}
 
 @article{Oike04,
 author = {Tomoko Oike and Kentarou Kawaguchi and Shuro Takano and Naomasa Nakai},
-journal = {Publ. Astron. Soc. Jpn.},
+journal = {Publications of the Astronomical Society of Japan},
 title = {Observations of Cyclopropenylidene (Cyclic-{C}\textsubscript{3}{H}\textsubscript{2}) in the External Galaxies {NGC} 253 and {M} 82},
 volume = {56},
 pages = {431-438},
@@ -116,7 +116,7 @@ year = {2004}
 
 @article{Jefferts70,
 author = {K. B. Jefferts and A. A. Penzias and R. W. Wilson},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Observation of the {CN} Radical in the {O}rion Nebula and {W}51},
 volume = {61},
 pages = {L87-L89},
@@ -125,7 +125,7 @@ year = {1970}
 
 @article{Moller34,
 author = {Chr. M{\o}ller and M. S. Plesset},
-journal = {Phys. Rev.},
+journal = {Physical Review},
 title = {Note on an Approximation Treatment for Many-Electron Systems},
 volume = {46},
 pages = {618-622},
@@ -134,7 +134,7 @@ year = {1934}
 
 @article{Werner12,
 author = {H.-J. Werner and Peter J. Knowles and Gerald Knizia and Frederick R. Manby and Martin Sch\"{u}tz},
-journal = {WIREs Comput Mol Sci},
+journal = {Wiley Interdisciplinary Reviews: Computational Molecular Science},
 title = {{M}olpro: a general-purpose quantum chemistry program package},
 volume = {2},
 pages = {242-253},
@@ -150,7 +150,7 @@ year = {2022}
 
 @article{Amos91,
 author = {Roger D. Amos and Jamie S. Andrews and Nicholas C. Hardy and Peter J. Knowles},
-journal = {Chem. Phys. Lett.},
+journal = {Chemical Physics Letters},
 title = {Open Shell {M}{\o}ller-{P}lesset Perturbation Theory},
 volume = {185},
 pages = {256-264},
@@ -159,7 +159,7 @@ year = {1991}
 
 @article{Knowles91,
 author = {Peter J. Knowles and Jamie S. Andrews and Roger D. Amos and Nicholas J. Handy and John A. Pople},
-journal = {Chem. Phys. Lett.},
+journal = {Chemical Physics Letters},
 title = {Restricted {M}{\o}ller-{P}lesset Theory for Open Shell Molecules},
 volume = {186},
 pages = {130-136},
@@ -168,7 +168,7 @@ year = {1991}
 
 @article{Knowles93,
 author = {Peter J. Knowles and Claudia Hampel and H.-J. Werner},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Coupled Cluster Theory for High Spin Open Shell Reference Wavefunctions},
 volume = {99},
 pages = {5219-5227},
@@ -177,7 +177,7 @@ year = {1993}
 
 @article{Henkel88,
 author = {C. Henkel and R. Mauersberger and P. Schilke},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Molecules in external galaxies: the detection of {CN}, {C}\textsubscript{2}{H} and {HNC} and the tentative detection of {HC}\textsubscript{3}{N}},
 volume = {201},
 pages = {L23-L26},
@@ -186,7 +186,7 @@ year = {1988}
 
 @article{McCarthy99,
 author = {M. C. Mc{C}arthy and J.-U. Grabow and M. J. Travers and W. Chen and C. A. Gottlieb and P. Thaddeus},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Laboratory Detection of the Ring-Chain Carbenes {HC}\textsubscript{4}{N} and {HC}\textsubscript{6}{N}},
 volume = {513},
 pages = {305-310},
@@ -195,7 +195,7 @@ year = {1999}
 
 @article{Vrtilek87,
 author = {J. M. Vrtilek and C. A. Gottlieb and P. Thaddeus},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Laboratory and astronomical spectroscopy of {C}\textsubscript{3}{H}\textsubscript{2}, the first interstellar organic ring},
 volume = {314},
 pages = {716-725},
@@ -204,7 +204,7 @@ year = {1987}
 
 @article{Thaddeus85,
 author = {P. Thaddeus and J. M. Vrtilek and C. A. Gottlieb},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Laboratory and astronomical identification of cyclopropenylidene, {C}\textsubscript{3}{H}\textsubscript{2}},
 volume = {299},
 pages = {L63-L66},
@@ -213,7 +213,7 @@ year = {1985}
 
 @article{Spezzano13,
 author = {S. Spezzano and S. Br\"{u}nken and P. Schille and P. Caselli and K. M. Menten and M. C. Mc{C}arthy and L. Bizzocchi and S. P. {T}revi\~{n}o-{M}orales and Y. Aikawa and S. Schlemmer},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {INTERSTELLAR DETECTION OF {c}-{C}\textsubscript{3}{D}\textsubscript{2}},
 volume = {769},
 pages = {L19-L25},
@@ -222,7 +222,7 @@ year = {2013}
 
 @article{Turner75,
 author = {B. E. Turner and R. H. Gammon},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Interstallar {CN} at radio wavelengths},
 volume = {198},
 pages = {71-89},
@@ -238,7 +238,7 @@ note={Gaussian Inc. Wallingford CT}
 
 @article{Dunning89,
 author = {Thom H. Dunning},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Gaussian basis sets for use in correlated molecular calculations. {I}. {T}he atoms boron through neon and hydrogen},
 volume = {90},
 pages = {1007-1023},
@@ -247,7 +247,7 @@ year = {1989}
 
 @article{Westbrook21,
 author = {Brent R. Westbrook and Dev J. Patel and Jax D. Dallas and G. Clark Swartzfager and Timothy J. Lee and Ryan C. Fortenberry},
-journal = {J. Phys. Chem. A},
+journal = {Journal of Physical Chemistry A},
 title = {Fundamental Vibrational Frequencies and Spectroscopic Constants of Substituted Cyclopropenylidene ({c}-{C}\textsubscript{3}{HX}, {X}={F},{Cl},{CN})},
 volume = {125},
 pages = {8860-8868},
@@ -256,7 +256,7 @@ year = {2021}
 
 @article{Qi13,
 author = {Chunhua Qi and Karin I. \"{O}berg and David J. Wilner and Katherine A. Rosenfeld},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {FIRST DETECTION OF \textit{c}-{C}\textsubscript{3}{H}\textsubscript{2} IN A CIRCUMSTELLAR DISK},
 volume = {765},
 pages = {L14-L18},
@@ -265,7 +265,7 @@ year = {2013}
 
 @article{McKellar40,
 author = {A. Mc{K}ellar},
-journal = {Publ. Astron. Soc. Pac.},
+journal = {Publications of the Astronomical Society of the Pacific},
 title = {Evidence for the Molecular Origin of Some Hitherto Unidentified Interstellar Lines},
 volume = {52},
 pages = {187-192},
@@ -274,7 +274,7 @@ year = {1940}
 
 @article{Krylov08,
 author = {Anna I Krylov},
-journal = {Annu. Rev. Phys. Chem.},
+journal = {Annual Review of Physical Chemistry},
 title = {Equation-of-Motion Coupled-Cluster Methods for Open-Shell and Electronically Excited Species: {T}he {H}itchhiker's {G}uide to {F}ock {S}pace},
 volume = {59},
 pages = {433-462},
@@ -283,7 +283,7 @@ year = {2008}
 
 @article{Kendall92,
 author = {Rick A. Kendall and Thom H. Dunning and Robert J. Harrison},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Electron affinities of the first‐row atoms revisited. {S}ystematic basis sets and wave functions},
 volume = {96},
 pages = {6796-6806},
@@ -292,7 +292,7 @@ year = {1992}
 
 @article{Madden86,
 author = {Suzanne C. Madden and William M. Irvine and Henry E. Matthews},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Detections of {C}-13-substituted {C}\textsubscript{3}{H}\textsubscript{2} in astronomical sources},
 volume = {311},
 pages = {L27-L31},
@@ -301,7 +301,7 @@ year = {1986}
 
 @article{Seaquist86,
 author = {E. R. Seaquist and M. B. Bell},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Detection of the hydrocarbon ring molecule {C}\textsubscript{3}{H}\textsubscript{2} in the radio galaxy {C}entaurus {A} (= {NGC} 5128)},
 volume = {303},
 pages = {L67-L70},
@@ -310,7 +310,7 @@ year = {1986}
 
 @article{Gonzalez86,
 author = {J. {G}omez-{G}onzalez and M. Guelin and J. Cernicharo and C. Kahane and M. Bogey},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Detection of interstellar \textsuperscript{13}{C} isotopes of {C}\textsubscript{3}{H}\textsubscript{2}},
 volume = {168},
 pages = {L11-L12},
@@ -319,7 +319,7 @@ year = {1986}
 
 @article{Bell86,
 author = {M. B. Bell and P. A. Feldman and H. E. Matthews and L. W. Avery},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Detection of deuterated cyclopropenylidene ({C}\textsubscript{3}{HD}) in {TMC}-1},
 volume = {311},
 pages = {L89-L92},
@@ -328,7 +328,7 @@ year = {1986}
 
 @article{Hill10,
 author = {J. Grant Hill and Kirk A. Peterson},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {Correlation consistent basis sets for explicitly correlated wavefunctions: valence and core–valence basis sets for {Li}, {Be}, {Na}, and {Mg}},
 volume = {12},
 pages = {10460-10468},
@@ -337,7 +337,7 @@ year = {2010}
 
 @article{Madden89,
 author = {S. C. Madden and W. M. Irvine and D. A. Swade and H. E. Matthews and P. Friberg},
-journal = {Astron. J.},
+journal = {Astronomical Journal},
 title = {A survey of cyclopropenylidene ({C}\textsubscript{3}{H}\textsubscript{2}) in Galactic sources},
 volume = {97},
 pages = {1403-1422},
@@ -346,7 +346,7 @@ year = {1989}
 
 @article{Spezzano16,
 author = {S. Spezzano and H. Gupta and S. Br\"{u}nken and C. A. Gottlieb and P. Caselli and K. M. Menten H. S. P. M\"{u}ller and L. Bizzocchi and P. Schilke and M. C. Mc{C}arthy and S. Schlemmer},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {A study of the {C}\textsubscript{3}{H}\textsubscript{2} isomers and isotopologues: first interstellar detection of {HDCCC}},
 volume = {586},
 year = {2016}
@@ -354,7 +354,7 @@ year = {2016}
 
 @article{Adler07,
 author = {Thomas B. Adler and Gerlad Knizia and H.-J. Werner},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {A simple and efficient {CCSD(T)-F12} approximation},
 volume = {127},
 pages = {221106},
@@ -363,7 +363,7 @@ year = {2007}
 
 @article{Raghavachari89,
 author = {Krishnan Raghavachari and Gary W. Trucks and John A. Pople and Martin {H}ead-{G}ordon},
-journal = {Chem. Phys. Lett.},
+journal = {Chemical Physics Letters},
 title = {A fifth-order perturbation comparison of electron correlation theories},
 volume = {157},
 pages = {479-483},
@@ -372,7 +372,7 @@ year = {1989}
 
 @article{Lee89,
 author = {Timothy J. Lee and Peter R. Taylor},
-journal = {Int. J. Quantum Chem.},
+journal = {International Journal of Quantum Chemistry},
 title = {A diagnostic for determining the quality of single-reference electron correlation methods},
 volume = {36},
 pages = {199-207},
@@ -381,7 +381,7 @@ year = {1989}
 
 @article{Knizia09,
 author = {Gerald Knizia and Thomas B. Adler and H.-J. Werner},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Simplified {CCSD(T)-F12} methods: Theory and benchmarks},
 volume = {130},
 pages = {054104},
@@ -390,7 +390,7 @@ year = {2009}
 
 @article{McGuire21b,
 author = {Brett A. Mc{G}uire},
-journal = {Astrophys. J. Suppl. Ser.},
+journal = {Astrophysical Journal Supplement Series},
 title = {2021 Census of Interstellar, Circumstellar, Extragalactic, Protoplanetary Disk, and Exoplanetary Molecules},
 volume = {259},
 pages = {30},
@@ -399,7 +399,7 @@ year = {2021}
 
 @article{Spezzano12,
 author = {S. Spezzano and F. Tamassia and S. Thorwirth and P. Thaddeus and C. A. Gottlieb and M. C. Mc{C}arthy},
-journal = {Astrophys. J. Suppl. Ser.},
+journal = {Astrophysical Journal Supplement Series},
 title = {A HIGH-RESOLUTION ISOTOPIC STUDY OF THE ROTATIONAL SPECTRUM OF {c}-{C}\textsubscript{3}{H}\textsubscript{2}},
 volume = {200},
 year = {2012}
@@ -407,7 +407,7 @@ year = {2012}
 
 @article{Majumdar17,
 author = {L. Majumdar and P. Gratier and I. Andron and V. Wakelam and E. Caux},
-journal = {Mon. Not. R. Astron. Soc.},
+journal = {Monthly Notices of the Royal Astronomical Society},
 title = {A study of singly deuterated cyclopropenylidene {c}-{C}\textsubscript{3}{HD} in protostar {IRAS} 16293-2422},
 volume = {467},
 pages = {3525-3532},
@@ -416,7 +416,7 @@ year = {2017}
 
 @article{Hudgins90,
 author = {Douglas M. Hudgins and Anne L. Weber and Richard F. Porter},
-journal = {Int. J. Mass Spectrom. Ion Processes},
+journal = {International Journal of Mass Spectrometry and Ion Processes},
 title = {A study of the astronomically important cyclopropenyl system by neutralized ion beam techniques},
 volume = {98},
 pages = {69-78},
@@ -425,7 +425,7 @@ year = {1990}
 
 @article{Cox87b,
 author = {P. Cox},
-journal = {Mitt. Astron. Ges.},
+journal = {Mitteilungen der Astronomischen Gesellschaft},
 title = {Cyclic Molecules in the Interstellar Medium},
 volume = {70},
 pages = {234-250},
@@ -443,7 +443,7 @@ year = {1998}
 
 @article{Zhao21,
 author = {Long Zhao and Wenchao Lu and Musahid Ahmed and Marsel V. Zagidullin and Valeriy N. Azyazov and Alexander N. Morozov and Alexander M. Mebel and Ralf I. Kaiser},
-journal = {Sci. Adv.},
+journal = {Science Advances},
 title = {Gas-phase synthesis of benzene via the propargyl radical self-reaction},
 volume = {7},
 year = {2021}
@@ -451,7 +451,7 @@ year = {2021}
 
 @article{Tielens08,
 author = {A. G. G. M. Tielens},
-journal = {Annu. Rev. Astron. Astrophys.},
+journal = {Annual Review of Astronomy and Astrophysics},
 title = {Interstellar Polycyclic Aromatic Hydrocarbon Molecules},
 volume = {46},
 pages = {289-337},
@@ -460,7 +460,7 @@ year = {2008}
 
 @article{He22a,
 author = {Chao He and Kazuumi Fujioka and Anatoliy A. Nikolayev and Long Zhao and Srinivas Doddipatla and Valeriy N. Azyazov and Alexander M. Mebel and Rui Sun and Ralf I. Kaiser},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {A Chemical Dynamics Study of the Reaction of the Methylidyne Radical {(CH, X\textsuperscript{2}$\Pi$)} with Dimethylacetylene {(CH\textsubscript{3}CCCH\textsubscript{3},X\textsuperscript{1}A\textsubscript{1g})}},
 volume = {24},
 pages = {578-593},
@@ -469,7 +469,7 @@ year = {2022}
 
 @article{Cernicharo12,
 author = {J. Cernicharo and N. Marcelino and E. Roueff and M. Gerin and A. {J}im\'{e}nez-{E}scobar and G. M. {M}u\~{n}oz {C}aro},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {DISCOVERY OF THE METHOXY RADICAL, {CH}\textsubscript{3}{O}, TOWARD {B}1: DUST GRAIN AND GAS-PHASE CHEMISTRY IN COLD DARK CLOUDS},
 volume = {759},
 pages = {L43-L46},
@@ -478,7 +478,7 @@ year = {2012}
 
 @article{Hampel92,
 author = {Claudia Hampel and Kirk A. Peterson and H.-J. Werner},
-journal = {Chem. Phys. Lett.},
+journal = {Chemical Physics Letters},
 title = {A comparison of the efficiency and accuracy of the quadratic configuration interaction {(QCISD)}, coupled cluster {(CCSD)}, and {B}rueckner coupled cluster {(BCCD)} methods},
 volume = {190},
 pages = {1-12},
@@ -487,7 +487,7 @@ year = {1992}
 
 @article{Deegan94,
 author = {Miles J. O. Deegan and Peter J. Knowles},
-journal = {Chem. Phys. Lett.},
+journal = {Chemical Physics Letters},
 title = {Perturbative corrections to account for triple excitations in closed and open shell coupled cluster theories},
 volume = {227},
 pages = {321-326},
@@ -496,7 +496,7 @@ year = {1994}
 
 @article{Davisdon96,
 author = {E. R. Davisdon},
-journal = {Chem. Phys. Lett.},
+journal = {Chemical Physics Letters},
 title = {Comment on ‘{C}omment on {D}unning’s correlation-consistent basis sets’},
 volume = {260},
 pages = {514-518},
@@ -505,7 +505,7 @@ year = {1996}
 
 @article{Wilson96,
 author = {A. K. Wilson and T. van {M}ourik and T. H. Dunning},
-journal = {J. Mol. Struct.},
+journal = {Journal of Molecular Structure},
 title = {Gaussian Basis Sets for use in Correlated Molecular Calculations. {VI}. {S}extuple zeta correlation consistent basis sets for boron through neon},
 volume = {388},
 pages = {339-349},
@@ -514,7 +514,7 @@ year = {1996}
 
 @article{Woon93,
 author = {D. E. Woon and T. H. Dunning},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Gaussian-basis sets for use in correlated molecular calculations. 3. {T}he atoms aluminum through argon},
 volume = {98},
 pages = {1358-1371},
@@ -523,7 +523,7 @@ year = {1993}
 
 @article{Peterson94,
 author = {K. A. Peterson and D. E. Woon and T. H. Dunning},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Benchmark calculations with correlated molecular wave functions. {IV}. {T}he classical barrier height of the {H}+{H}\textsubscript{2} → {H}\textsubscript{2}+{H} reaction},
 volume = {100},
 pages = {7410-7415},
@@ -532,7 +532,7 @@ year = {1994}
 
 @article{Roothaan51,
 author = {C. C. J. Roothaan},
-journal = {Rev. Mod. Phys.},
+journal = {Reviews of Modern Physics},
 title  = {New Developments in Molecular Orbital Theory},
 volume = {23},
 pages = {69-89},
@@ -541,7 +541,7 @@ year = {1951}
 
 @article{Brown87,
 author = {Ronald D. Brown and Peter D. Godfrey and Ryan P. A. Bettens},
-journal = {Mon. Not. R. Astron. Soc.},
+journal = {Monthly Notices of the Royal Astronomical Society},
 title = {The dipole moment of {C}\textsubscript{3}{H}\textsubscript{2}},
 volume = {227},
 pages = {19p-20p},
@@ -550,7 +550,7 @@ year = {1987}
 
 @article{Cox87a,
 author = {P. Cox and R. Guesten and C. Henkel},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Detection of the hydrocarbon ring molecule {C}\textsubscript{3}{H}\textsubscript{2} in the planetary nebula {NGC} 7027.},
 volume = {181},
 pages = {L19-L22},
@@ -559,7 +559,7 @@ year = {1987}
 
 @article{Matthews85,
 author = {H. E. Matthews and W. M. Irvine},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {The hydrocarbon ring {C}\textsubscript{3}{H}\textsubscript{2} is ubiquitous in the Galaxy},
 volume = {298},
 pages = {L61-L65},
@@ -568,7 +568,7 @@ year = {1985}
 
 @article{Teyssier04,
 author = {D. Teyssier and D. Foss\'{e} and M. Gerin and J. Pety and A. Abergel and E. Roueff},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Carbon budget and carbon chemistry in Photon Dominated Regions},
 volume = {417},
 pages = {135-149},
@@ -577,7 +577,7 @@ year = {2004}
 
 @article{Lucas00,
 author = {R. Lucas and H. S. Liszt},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Comparative chemistry of diffuse clouds. {I}. {C}\textsubscript{2}{H} and {C}\textsubscript{3}{H}\textsubscript{2}},
 volume = {358},
 pages = {1069-1076},
@@ -586,7 +586,7 @@ year = {2000}
 
 @article{Thaddeus81,
 author = {P. Thaddeus and M. Guelin and R. A. Linke},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Three new 'nonterrestrial' molecules},
 volume = {246},
 pages = {L41-L45},
@@ -595,7 +595,7 @@ year = {1981}
 
 @article{Nixon20,
 author = {Conor A. Nixon and Alexander E. Thelen and Martin A. Cordiner and Zbigniew Kisiel and Steven B. Charnley and Edward M. Molter and Joseph Serigano and Patrick G. J. Irwin and Nicholas A. Teanby and {Y}i-{J}ehng Kuan},
-journal = {Astron. J.},
+journal = {Astronomical Journal},
 title = {Detection of Cyclopropenylidene on {T}itan with {ALMA}},
 volume = {160},
 pages = {205-221},
@@ -604,7 +604,7 @@ year = {2020}
 
 @article{Jing13,
 author = {Ying Jing and Hui Liu and Hailong Wang and Yang Yu and Xiaojun Tan and Yungang Chen and Yongling Zhang and Jinsong Gu},
-journal = {J. Chil. Chem. Soc.},
+journal = {Journal of the Chilean Chemical Society},
 title = {QUANTUM MECHANICAL STUDY OF THE INSERTION REACTION BETWEEN CYCLOPROPENYLIDENE WITH {R}-{H} ({R}={F}, {OH}, {NH}\textsubscript{2}, {CH}\textsubscript{3})},
 volume = {58},
 pages = {2219-2221},
@@ -613,7 +613,7 @@ year = {2013}
 
 @article{Tan14,
 author = {Xiaojun Tan and Weihua Wang and Ying Jing and Fang Wang and Ping Li},
-journal = {Monatsh. Chem.},
+journal = {Monatshefte fuer Chemie},
 title = {Theoretical study on the reaction mechanism of cyclopropenylidene with azacyclopropane: ring expansion process},
 volume = {145},
 pages = {1109-1115},
@@ -622,7 +622,7 @@ year = {2014}
 
 @article{Tan12,
 author = {Xiaojun Tan and Zhen Li and Qiao Sun and Ping Li and Weihua Wang and Guorong Wang},
-journal = {J. Chil. Chem. Soc.},
+journal = {Journal of the Chilean Chemical Society},
 title = {A THEORETICAL STUDY ON THE MECHANISM OF THE ADDITION REACTION BETWEEN CYCLOPROPENYLIDENE AND ETHYLENE},
 volume = {57},
 pages = {1174-1177},
@@ -631,7 +631,7 @@ year  = {2012}
 
 @article{Klemperer06,
 author = {William Klemperer},
-journal = {Proc. Natl. Acad. Sci. U.S.A.},
+journal = {Proceedings of the National Academy of Sciences of the United States of America},
 title = {Interstellar chemistry},
 volume = {103},
 pages = {12232-12234},
@@ -640,7 +640,7 @@ year = {2006}
 
 @article{Puzzarini22,
 author = {Cristina Puzzarini},
-journal = {Front. Astron. Space Sci.},
+journal = {Frontiers in Astronomy and Space Sciences},
 title = {Gas-phase Chemistry in the Interstellar Medium: The Role of Laboratory Astrochemistry},
 volume = {8},
 pages = {811342},
@@ -649,7 +649,7 @@ year = {2022}
 
 @article{Kaiser02,
 author = {Ralf I. Kaiser},
-journal = {Chem. Rev.},
+journal = {Chemical Reviews},
 title = {Experimental Investigation on the Formation of Carbon-Bearing Molecules in the Interstellar Medium via Neutral-Neutral Reactions},
 volume = {102},
 pages = {1309-1358},
@@ -658,7 +658,7 @@ year = {2002}
 
 @article{Santaloci21,
 author = {Taylor J. Santaloci and Marie E. Strauss and Ryan C. Fortenberry},
-journal = {Front. Astron. Space Sci.},
+journal = {Frontiers in Astronomy and Space Sciences},
 title = {Electronically Excited States of Potential Interstellar, Anionic Building Blocks for Astrobiological Nucleic Acids},
 volume = {8},
 year = {2021}
@@ -666,14 +666,14 @@ year = {2021}
 
 @article{Cabezas22,
 author = {Carlos Cabezas and Marcelino Agundez and Raul Fuentetaja and Yasuki Endo and Nuria Marcelino and Belen Tercero and Juan R. Pardo and Pablo de Vicente and Jos Cernicharo},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Discovery of the cyclic {C}\textsubscript{5}{H} radical in {TMC}-1},
 year = {2022}
 }
 
 @article{Karton22,
 author = {Amir Karton and Venkatesan S. Thimmakondu},
-journal = {J. Phys. Chem. A},
+journal = {Journal of Physical Chemistry A},
 title = {From Molecules with a Planar Tetracoordinate Carbon to an Astronomically Known {C}\textsubscript{5}{H}\textsubscript{2} Carbene},
 volume = {126},
 pages = {2561-2568},
@@ -682,7 +682,7 @@ year = {2022}
 
 @article{Seburg97b,
 author = {Randal A. Seburg and Robert J. McMahon and John F. Stanton and J\"{u}rgen Gauss},
-journal = {J. Am. Chem. Soc.},
+journal = {Journal of the American Chemical Society},
 title = {Structures and Stabilities of {C}\textsubscript{5}{H}\textsubscript{2} Isomers: Quantum Chemical Studies},
 volume = {119},
 pages = {10838-10845},
@@ -691,7 +691,7 @@ year = {1997}
 
 @article{Seburg97a,
 author = {Randal A. Seburg and Eric V. Patterson and John F. Stanton and Robert J. McMahon},
-journal = {J. Am. Chem. Soc.},
+journal = {Journal of the American Chemical Society},
 title = {Structures, Automerizations, and Isomerizations of {C}\textsubscript{3}{H}\textsubscript{2} Isomers},
 volume = {119},
 pages = {5847-5856},
@@ -700,7 +700,7 @@ year = {1997}
 
 @article{Cooper88,
 author = {David L. Cooper and Stuart C. Murphy},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {\textit{Ab initio} GEOMETRIES FOR {C}\textsubscript{2n+1}{H}, {C}\textsubscript{2n+1}{H}\textsuperscript{+}, AND {C}\textsubscript{2n+1}{H}\textsubscript{2} SPECIES FOR \textit{n} = 1, 2, 3},
 volume = {333},
 pages = {482-490},
@@ -709,7 +709,7 @@ year = {1988}
 
 @article{Travers97,
 author = {M. J. Travers and M. C. Mc{C}arthy and C. A. Gottlieb and P. Thaddeus},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Laboratory Detection of the Ring-Chain Molecule {C}\textsubscript{5}{H}\textsubscript{2}},
 volume = {483},
 pages = {L135-L138},
@@ -718,7 +718,7 @@ year = {1997}
 
 @article{McCarthy97,
 author = {M. C. Mc{C}arthy and M. J. Travers and C. A. Gottlieb and P. Thaddeus},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Laboratory Detection of the Ring-Chain Molecule {C}\textsubscript{7}{H}\textsubscript{2}},
 volume = {483},
 pages = {L139-L142},
@@ -727,7 +727,7 @@ year = {1997}
 
 @article{Yarkony01,
 author = {David R. Yarkony},
-journal = {J. Phys. Chem. A},
+journal = {Journal of Physical Chemistry A},
 title = {Conical Intersections: The New Conventional Wisdom},
 volume = {105},
 pages = {6277-6293},
@@ -736,7 +736,7 @@ year = {2001}
 
 @article{Schuurman18,
 author = {Michael S. Schuurman and Albert Stolow},
-journal = {Annu. Rev. Phys. Chem.},
+journal = {Annual Review of Physical Chemistry},
 title = {Dynamics at Conical Intersections},
 volume = {69},
 pages = {427-450},
@@ -745,7 +745,7 @@ year = {2018}
 
 @article{Domcke12,
 author = {Wolfgang Domcke and David R. Yarkony},
-journal = {Annu. Rev. Phys. Chem.},
+journal = {Annual Review of Physical Chemistry},
 title = {Role of Conical Intersections in Molecular Spectroscopy and Photoinduced Chemical Dynamics},
 volume = {63},
 pages = {325-352},
@@ -753,7 +753,7 @@ year = {2012}
 }
 @article{Burke21,
 author = {Alexandra D. Burke and Michael C. Bowman and Justin M. Turney and Henry F. {Schaefer {III}}},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {Energetics and kinetics of various cyano radical hydrogen abstractions},
 volume = {23},
 pages = {3389-3400},
@@ -762,7 +762,7 @@ year = {2021}
 
 @article{Herbst01,
 author = {Eric Herbst},
-journal = {Chem. Soc. Rev.},
+journal = {Chemical Society Reviews},
 title = {The chemistry of interstellar space},
 volume = {30},
 pages = {168-176},
@@ -771,7 +771,7 @@ year = {2001}
 
 @article{Herbst21,
 author = {Eric Herbst},
-journal = {Front. Astron. Space Sci.},
+journal = {Frontiers in Astronomy and Space Sciences},
 title = {Unusual Chemical Processes in Interstellar Chemistry: Past and Present},
 volume = {8},
 pages = {776942},
@@ -780,7 +780,7 @@ year = {2021}
 
 @article{Cameron73,
 author = {A. G. W. Cameron},
-journal = {Space Sci. Rev.},
+journal = {Space Science Reviews},
 title = {Abundances of the Elements in the Solar System},
 volume = {15},
 pages = {121-146},
@@ -789,7 +789,7 @@ year = {1973}
 
 @article{Suess56,
 author = {Hans E. Suess and Harold C. Urey},
-journal = {Rev. Mod. Phys.},
+journal = {Reviews of Modern Physics},
 title = {Abundances of the Elements},
 volume = {28},
 pages = {53-74},
@@ -798,7 +798,7 @@ year = {1956}
 
 @article{Snow81,
 author = {Theodore P. {Snow Jr.} and Donald G. York},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {The detection of interstellar fluorine in the line of sight toward $\Delta$ {S}corpii},
 volume = {247},
 pages = {L39-L41},
@@ -816,7 +816,7 @@ year = {1988}
 
 @article{Neufeld97,
 author = {David A. Neufeld and Jonas Zmuidzinas and Peter Schilke and Thomas G. Phillips},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Discovery of Interstellar Hydrogen Fluoride},
 volume = {488},
 pages = {L141-L144},
@@ -825,7 +825,7 @@ year = {1997}
 
 @article{Zhu02,
 author = {C. Zhu and R. Krems and A. Dalgarno and N. Balakrishnan},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {CHEMISTRY OF HYDROGEN FLUORIDE IN THE INTERSTELLAR MEDIUM},
 volume = {577},
 pages = {795-797},
@@ -834,7 +834,7 @@ year = {2002}
 
 @article{Woolsey95,
 author = {S. E. Woolsey and Thomas A. Weaver},
-journal = {Astrophys. J. Suppl. Ser.},
+journal = {Astrophysical Journal Supplement Series},
 title = {THE EVOLUTION AND EXPLOSION OF MASSIVE STARS. {II}. {E}XPLOSIVE HYDRODYNAMICS AND NUCLEOSYNTHESIS},
 volume = {101},
 pages = {181-235},
@@ -843,7 +843,7 @@ year = {1995}
 
 @article{Meynet00,
 author = {G. Meynet and M. Arnould},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Synthesis of \textsuperscript{19}{F} in {W}olf-{R}ayet Stars},
 volume = {355},
 pages = {176-180},
@@ -852,7 +852,7 @@ year = {2000}
 
 @article{Forestini92,
 author = {M. Forestini and S. Goriely and A. Jorissen and M. Arnould},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Fluorine production in thermal pulses on the asymptotic giant branch},
 volume = {261},
 pages = {157-163},
@@ -861,7 +861,7 @@ year = {1992}
 
 @article{Smith11,
 author = {Ian W. M. Smith},
-journal = {Annu. Rev. Astron. Astrophys.},
+journal = {Annual Review of Astronomy and Astrophysics},
 title = {Laboratory Astrochemistry: Gas-Phase Processes},
 volume = {49},
 pages = {29-66},
@@ -870,7 +870,7 @@ year = {2011}
 
 @article{Smith06,
 author = {Ian W. M. Smith},
-journal = {Angew. Chem. Int. Ed.},
+journal = {Angewandte Chemie International Edition},
 title = {Reactions at Very Low Temperatures: Gas Kinetics at a New Frontier},
 volume = {45},
 pages = {2842-2861},
@@ -879,7 +879,7 @@ year = {2006}
 
 @article{Lattelais09,
 author = {M. Lattelais and F. Pauzat and Y. Ellinger and C. Ceccarelli},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {INTERSTELLAR COMPLEX ORGANIC MOLECULES AND THE MINIMUM ENERGY PRINCIPLE},
 volume = {696},
 pages = {L133-L136},
@@ -897,7 +897,7 @@ year = {1993}
 
 @article{Melosso20,
 author = {M. Melosso and L. Bizzocchi and O. Sipil\"{a} and B. M. Giuliano and L. Dore and F. Tamassia and M.-A. {M}artin-{D}rumel and O. Pirali and E. Redaelli and P. Caselli},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {First detection of {NHD} and {ND}\textsubscript{2} in the interstellar medium},
 volume = {641},
 pages = {A153},
@@ -915,7 +915,7 @@ year = {1964}
 
 @article{Heiles68,
 author = {Carl. E. Heiles},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Normal {OH} Emission and Interstellar Dust CLouds},
 volume = {151},
 pages = {919-934},
@@ -924,7 +924,7 @@ year = {1968}
 
 @article{Dickey81,
 author = {J. M. Dickey and J. Crovisier and I. Kazes},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Emission-absorption observations of {OH} in diffuse interstellar clouds},
 volume = {98},
 pages = {271-285},
@@ -933,7 +933,7 @@ year = {1981}
 
 @article{Crutcher81,
 author = {R. M. Crutcher and T. H. Troland and C. Heiles},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Magnetic fields in molecular clouds - {OH} {Z}eeman observations},
 volume = {249},
 pages = {137-137},
@@ -942,7 +942,7 @@ year = {1981}
 
 @article{Storey81,
 author = {J. W. V. Storey and D. M. Watson and C. H. Townes},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Detection of interstellar {OH} in the far-infrared},
 volume = {244},
 pages = {L27-L30},
@@ -951,7 +951,7 @@ year = {1981}
 
 @article{Swings37,
 author = {P. Swings and L. Rosenfeld},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Considerations Regarding Interstellar Molecules},
 volume = {86},
 pages = {483-486},
@@ -960,7 +960,7 @@ year = {1937}
 
 @article{Rydbeck74,
 author = {O. E. H. Rydbeck and J. Elld\'{e}r and W. M. Irvine and A. Sume and \r{A}. Hjalmarson},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Radio astronomical determination of ground state transition frequencies of {CH}},
 volume = {34},
 pages = {479-482},
@@ -978,7 +978,7 @@ year = {1973}
 
 @article{Sheffer07,
 author = {Y. Sheffer and S. R. Federman},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {\textit{Hubble {S}pace {T}elescope} Measurements of Vacuum Ultraviolet Lines of Interstellar {CH}},
 volume = {659},
 pages = {1352-1359},
@@ -1005,7 +1005,7 @@ year = {1989}
 
 @article{Maluendes93,
 author = {S. A. Maluendes and A. D. Mc{L}ean and E. Herbst},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Calculations concerning interstellar isomeric abundance ratios for {C}\textsubscript{3}{H} and {C}\textsubscript{3}{H}\textsubscript{2}},
 volume = {417},
 pages = {181-186},
@@ -1014,7 +1014,7 @@ year = {1993}
 
 @article{Maksyutenko11,
 author = {Pavlo Maksyutenko and Fangtong Zhang and Xibin Gu and Ralf I. Kaiser},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {A crossed molecular beam study on the reaction of methylidyne radicals [{CH}({X}\textsuperscript{2}$\Pi$)] with acetylene [{C}\textsubscript{2}{H}\textsubscript{2}({X}\textsuperscript{1}$\Sigma$\textsubscript{g}\textsuperscript{+})]--competing {C}\textsubscript{3}{H}\textsubscript{2} + {H} and {C}\textsubscript{3}{H} + {H}\textsubscript{2} channels},
 volume = {13},
 pages = {240-252},
@@ -1023,7 +1023,7 @@ year = {2011}
 
 @article{Wilson12,
 author = {Antony V. Wilson and Dorian S. N. Parker and Fangtong Zhang and Ralf I. Kaiser},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {Crossed beam study of the atom-radical reaction of ground state carbon atoms ({C}(\textsuperscript{3}\textit{P})) with the vinyl radical ({C}\textsubscript{2}{H}\textsubscript{3}({X}\textsuperscript{2}{A}'))},
 volume = {14},
 pages = {477-481},
@@ -1041,7 +1041,7 @@ year = {2017}
 
 @article{Gyorffy18,
 author = {Werner Gy\"{o}rffy and H.-J. Werner},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Analytical energy gradients for explicitly correlated wave functions. {II.} {E}xplicitly correlated coupled cluster singles and doubles with perturbative triples corrections: {CCSD(T)-F12}},
 volume = {148},
 pages = {114104},
@@ -1050,7 +1050,7 @@ year = {2018}
 
 @article{Allouche10,
 author = {Abdul-Rahman Allouche},
-journal = {J. Comput. Chem.},
+journal = {Journal of Computational Chemistry},
 title = {Gabedit--{A} graphical user interface for computational chemistry softwares},
 volume = {32},
 pages = {174-182},
@@ -1059,7 +1059,7 @@ year = {2010}
 
 @article{Kruse20,
 author = {Holger Kruse and Rafa\l{} Szabla and Ji\v{r}\'{i} \v{S}poner},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Surprisingly broad applicability of the {cc-pV\textit{n}Z-F12} basis set for ground and excited states},
 volume = {152},
 year = {2020}
@@ -1067,7 +1067,7 @@ year = {2020}
 
 @article{Dunning01,
 author = {Thom H. Dunning and Kirk A. Peterson and Angela K. Wilson},
-volume = {J. Chem. Phys.},
+volume = {Journal of Chemical Physics},
 title = {Gaussian basis sets for use in correlated molecular calculations. {X.} {T}he atoms aluminum through argon revisited},
 volume = {114},
 pages = {9244-9253},
@@ -1076,7 +1076,7 @@ year = {2001}
 
 @article{Snyder73,
 author = {L. E. Snyder and D. Buhl},
-journal = {Nat. Phys. Sci.},
+journal = {Nature Physical Science},
 title = {Interstellar Methylacetylene and Isocyanic Acid},
 volume = {243},
 pages = {45-46},
@@ -1085,7 +1085,7 @@ year = {1973}
 
 @article{Lovas76,
 author = {Frank J. Lovas and Donald R. Johnson and David Buhl and Lewis E. Snyder},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Millimeter emission lines in {O}rion {A}},
 volume = {209},
 pages = {770-777},
@@ -1094,7 +1094,7 @@ year = {1976}
 
 @article{Turner71,
 author = {B. E. Turner},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Detection of interstellar cyanoacetylene},
 volume = {163},
 pages = {L35-L39},
@@ -1103,7 +1103,7 @@ year = {1971}
 
 @article{Cernicharo01,
 author = {Jos\'{e} Cernicharo and Ana M. Heras and A. G. G. M. Tielens and Juan R. Pardo and Fabrice Herpin and Michel Gu\'{e}lin and L. B. F. M. Waters},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {\textit{INFRARED {S}PACE {O}BSERVATORY'S} DISCOVERY OF {C}\textsubscript{4}{H}\textsubscript{2}, {C}\textsubscript{6}{H}\textsubscript{2}, AND BENZENE IN {CRL 18}},
 volume = {546},
 pages = {L123-L126},
@@ -1112,7 +1112,7 @@ year = {2001}
 
 @article{Kaiser12,
 author = {Ralf I. Kaiser and Xibin Gu and Fangtong Zhang and Pavlo Maksyutenko},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {Crossed beam reactions of methylidyne [{CH}({X}\textsuperscript{2}$\Pi$)] with {D}2-acetylene [{C}\textsubscript{2}{D}\textsubscript{2}({X}\textsuperscript{1}$\Sigma$\textsubscript{g}\textsuperscript{+})] and of {D}1-methylidyne [{CD}({X}\textsuperscript{2}$\Pi$)] with acetylene [{C}\textsubscript{2}{H}\textsubscript{2}({X}\textsuperscript{1}$\Sigma$\textsubscript{g}\textsuperscript{+})]},
 volume = {14},
 pages = {575-588},
@@ -1121,7 +1121,7 @@ year = {2012}
 
 @article{Herbst83,
 author = {Eric Herbst},
-journal = {Astrophys. J. Suppl. Ser.},
+journal = {Astrophysical Journal Supplement Series},
 title = {ION-MOLECULE SYNTHESES OF INTERSTELLAR MOLECULAR HYDROCARBONS THROUGH {C}\textsubscript{4}{H}: {T}OWARD MOLECULAR COMPLEXITY},
 volume = {53},
 pages = {41-53},
@@ -1130,7 +1130,7 @@ year = {1983}
 
 @article{Vereecken98,
 author = {Luc Vereecken and Kristine Pierloot and Jozef Peeters},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {{B3LYP-DFT} characterization of the potential energy surface of the {CH}({X}\textsuperscript{2}$\Pi$)+{C}\textsubscript{2}{H}\textsubscript{2} reaction},
 volume = {108},
 pages = {1068-1080},
@@ -1148,7 +1148,7 @@ year = {2022}
 
 @article{Hoffmann84,
 author = {M. R. Hoffmann and W. D. Laidig and K. S. Kim and D. J. Fox and H. F. Schaefer},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Electronic Symmetry Breaking in Polyatomic Molecules. {M}ulticonfiguration Self-Consistent Field Study of the Cyclopropenyl Radical, {C}\textsubscript{3}{H}\textsubscript{3}},
 volume = {80},
 pages = {338-343},
@@ -1157,7 +1157,7 @@ year = {1984}
 
 @article{Chipman84,
 author = {Daniel M. Chipman and Kristine E. Miller},
-journal = {J. Am. Chem. Soc.},
+journal = {Journal of the American Chemical Society},
 title = {Theoretical study of the cyclopropenyl radical},
 volume = {106},
 pages = {6236-6242},
@@ -1166,7 +1166,7 @@ year = {1984}
 
 @article{Yahya92,
 author = {Noha M. Yahya and Salim  M Khalil},
-journal = {Z. Naturforsch., A: Phys. Sci.},
+journal = {Zeitschrift fur Naturforschung A: Journal of Physical Sciences},
 title = {A Theoretical Study of Monosubstituted Cyclopropenyl System},
 volume = {47a},
 pages = {768-774},
@@ -1175,7 +1175,7 @@ year = {1992}
 
 @article{Olmedo21,
 author = {Juan C. Ramal-Olmedo and C\'{e}sar A. Menor-Salv\'{a}n and Ryan C. Fortenberry},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Mechanisms for gas-phase molecular formation of neutral formaldehyde ({H}\textsubscript{2}{CO}) in cold astrophysical regions},
 volume = {656},
 pages = {A148},
@@ -1184,7 +1184,7 @@ year = {2021}
 
 @article{Daugey05,
 author = {Nicolas Daugey and Philippe Caubet and Bertrand Retail and Michel Costes and Astrid Bergeat and G\'{e}rard Dorthe},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {Kinetic measurements on methylidyne radical reactions with several hydrocarbons at low temperatures},
 volume = {7},
 pages = {2921-2927},
@@ -1193,7 +1193,7 @@ year = {2005}
 
 @article{Loison08,
 author = {{{J}ean-{C}hristophe} Loison and Astrid Bergeat},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {Rate constants and the H atom branching ratio of the reactions of the methylidyne {CH}({X}\textsuperscript{2}$\Pi$) radical with {C}\textsubscript{2}{H}\textsubscript{2}, {C}\textsubscript{2}{H}\textsubscript{4}, {C}\textsubscript{3}{H}\textsubscript{4} (methylacetylene and allene), {C}\textsubscript{3}{H}\textsubscript{6} (propene) and {C}\textsubscript{4}{H}\textsubscript{8} (\textit{trans}-butene)},
 volume = {11},
 pages = {655-664},
@@ -1202,7 +1202,7 @@ year = {2009}
 
 @article{Pearce12,
 author = {Michael P. Pearce and Madeleine J. Bussemaker and Paul D. Cooper and Kim M. Lapere and Duncan A. Wild and Allan J. McKinley},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {Formation of methanol from methane and water in an electrical discharge},
 volume = {14},
 pages = {3444-3449},
@@ -1211,7 +1211,7 @@ year = {2012}
 
 @article{Min07,
 author = {M. Min and L. B. F. M. Waters and A. {de} {K}oter and J. W. Hovenier and L. P. Keller and F. Markwick-{K}emper},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {The shape and composition of interstellar silicate grains},
 volume = {462},
 pages = {667-676},
@@ -1220,7 +1220,7 @@ year = {2007}
 
 @article{Yang18,
 author = {Tao Yang and Aaron M. Thomas and Beni B. Dangi and Ralf I. Kaiser and Alexander M. Mebel and Tom J. Millar},
-journal = {Nat. Commun.},
+journal = {Nature Communications},
 title = {Directed gas phase formation of silicon dioxide and implications for the formation of interstellar silicates},
 volume = {9},
 year = {2018}
@@ -1228,7 +1228,7 @@ year = {2018}
 
 @article{Schilke01,
 author = {P. Schilke and D. J. Benford and T. R. Hunter and D. C. Lis and T. G. Phillips},
-journal = {Astrophys. J. Suppl. Ser.},
+journal = {Astrophysical Journal Supplement Series},
 title = {A Line Survey of {O}rion-{KL} from 607 to 725 {GHz}},
 volume = {132},
 pages = {281-364},
@@ -1237,7 +1237,7 @@ year = {2001}
 
 @article{Avramov05,
 author = {Pavel V. Avramov and Ivana Adamovic and Kai-Ming Ho and C. Z. Wang and W. C. Lu and Mark S. Gordon},
-journal = {J. Phys. Chem. A},
+journal = {Journal of Physical Chemistry A},
 title = {Potential Energy Surfaces of {Si}\textsubscript{m}{O}\textsubscript{n} Cluster Formation and Isomerization},
 volume = {109},
 pages = {6294-6302},
@@ -1246,7 +1246,7 @@ year = {2005}
 
 @article{Chu01,
 author = {T. S. Chu and R. Q. Zhang and H. F. Cheung},
-journal = {J. Phys. Chem. B},
+journal = {Journal of Physical Chemistry B},
 title = {Geometric and Electronic Structures of Silicon Oxide Clusters},
 volume = {105},
 pages = {1705-1709},
@@ -1255,7 +1255,7 @@ year = {2001}
 
 @article{Lu03,
 author = {W. C. Lu and C. Z. Wang and V. Nguyen and M. W. Schmidt and M. S. Gordon and K. M. Ho},
-journal = {J. Phys. Chem. A},
+journal = {Journal of Physical Chemistry A},
 title = {Structures and Fragmentations of Small Silicon Oxide Clusters by ab Initio Calculations},
 volume = {107},
 pages = {6936-6943},
@@ -1264,7 +1264,7 @@ year = {2003}
 
 @article{Kushner93,
 author = {Mark J. Kushner},
-journal = {J. Appl. Phys.},
+journal = {Journal of Applied Physics},
 title = {Plasma chemistry of {He}/{O}\textsubscript{2}/{SiH}\textsubscript{4} and {He}/{N}\textsubscript{2}{O}/{SiH}\textsubscript{4} mixtures for remote plasma-activated chemical-vapor deposition of silicon dioxide},
 volume = {74},
 pages = {6538-6553},
@@ -1273,7 +1273,7 @@ year = {1993}
 
 @article{Su93,
 author = {Shujun Su and Mark S. Gordon},
-journal = {Chem. Phys. Lett.},
+journal = {Chemical Physics Letters},
 title = {Insertion of silylene and dimethylsilylene into water},
 volume = {204},
 pages = {306-314},
@@ -1282,7 +1282,7 @@ year = {1993}
 
 @article{Horie91,
 author = {O. Horie and R. Taege and B. Reimann and N. L. Arthur and P. Potzinger},
-journal = {J. Phys. Chem.},
+journal = {Journal of Physical Chemistry},
 title = {Kinetics and mechanism of the reactions of oxygen atoms (3{P}) with silane, methylsilane, dimethylsilane, and trimethylsilane},
 volume = {95},
 pages = {4393-4400},
@@ -1291,7 +1291,7 @@ year = {1991}
 
 @article{Imamura17,
 author = {Kentaro Imamura and Yuki Kobayashi and Shinsuke Matsuda and Tomoki Akai and Hikaru Kobayashi},
-journal = {AIP Adv.},
+journal = {AIP Advances},
 title = {Reaction of {Si} nanopowder with water investigated by {FT-IR} and {XPS}},
 volume = {7},
 year = {2017}
@@ -1299,7 +1299,7 @@ year = {2017}
 
 @article{Sun16,
 author = {{Y.-L.} Sun and {W.-J.} Huang and {S.-H.} Lee},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {Formation of {C}\textsubscript{3}{H}\textsubscript{2}, {C}\textsubscript{5}{H}\textsubscript{2}, {C}\textsubscript{7}{H}\textsubscript{2}, and {C}\textsubscript{9}{H}\textsubscript{2} from reactions of {CH}, {C}\textsubscript{3}{H}, {C}\textsubscript{5}{H}, and {C}\textsubscript{7}{H} radicals with {C}\textsubscript{2}{H}\textsubscript{2}},
 volume = {18},
 pages = {2120-2129},
@@ -1308,7 +1308,7 @@ year = {2016}
 
 @article{Watrous21b,
 author = {Alexandria G. Watrous and Brent R. Westbrook and Ryan C. Fortenberry},
-journal = {J. Phys. Chem. A},
+journal = {Journal of Physical Chemistry A},
 title = {{F12-TZ-cCR: A} Methodology for Faster and Still Highly Accurate Quartic Force Fields},
 volume = {125},
 pages = {10532-10540},
@@ -1317,7 +1317,7 @@ year = {2021}
 
 @article{Watrous21a,
 author = {Alexandria G. Watrous and Brent R. Westbrook and Megan C. Davis and Ryan C. Fortenberry},
-journal = {Mon. Not. R. Astron. Soc.},
+journal = {Monthly Notices of the Royal Astronomical Society},
 title = {Vibrational and rotational spectral data for possible interstellar detection of {AlH\textsubscript{3}OH\textsubscript{2}}, {SiH\textsubscript{3}OH}, and {SiH\textsubscript{3}NH\textsubscript{2}}},
 volume = {508},
 pages = {2613-2619},
@@ -1326,7 +1326,7 @@ year = {2021}
 
 @article{Dallas20,
 author = {Jax Dallas and Athena Flint and Ryan C. Fortenberry},
-journal = {Chem. Phys.},
+journal = {Chemical Physics},
 title = {Solvation of {HeH+} in neon atoms: {P}roton-bound complexes of mixed {He} and {Ne}},
 volume = {539},
 year = {2020}
@@ -1334,7 +1334,7 @@ year = {2020}
 
 @article{Dua00,
 author = {Suresh Dua and Stephen J. Blanksby and John H. Bowie},
-journal = {J. Phys. Chem. A},
+journal = {Journal of Physical Chemistry A},
 title = {Formation of Neutral {C$_7$H$_2$} Isomers from Four Isomeric {C$_7$H$_2$} Radical Anion Precursors in the Gas Phase},
 volume = {104},
 pages = {77-85},
@@ -1343,7 +1343,7 @@ year = {2000}
 
 @article{Thirumoorthy18,
 author = {Krishnan Thirumoorthy and Amir Karton and Venkatesan S. Thimmakondu},
-journal = {J. Phys. Chem. A},
+journal = {Journal of Physical Chemistry A},
 title = {From High-Energy C$_7$H$_2$ Isomers with A Planar Tetracoordinate Carbon Atom to An Experimentally Known Carbene},
 volume = {122},
 pages = {9054-9064},
@@ -1362,7 +1362,7 @@ year = {2021}
 
 @article{He20,
 author = {Chao He and Galiya R. Galimova and Yuheng Luo and Long Zhao and Andr\'{e} K. Eckhardt and Rui Sun and Alexander M. Mebel and Ralf I. Kaiser},
-journal = {Proc. Natl. Acad. Sci. U.S.A.},
+journal = {Proceedings of the National Academy of Sciences of the United States of America},
 title = {A chemical dynamics study on the gas-phase formation of triplet and singlet {C}$_5${H}$_2$ carbenes},
 volume = {117},
 pages = {30142-30150},
@@ -1371,7 +1371,7 @@ year = {2020}
 
 @article{Guadagnini98,
 author = {Renee Guadagnini and George C. Schatz and Stephen P. Walch},
-journal = {J. Phys. Chem. A},
+journal = {Journal of Physical Chemistry A},
 title = {Ab Initio and {RRKM} Studies of the Reactions of {C}, {CH}, and $^1${CH}$_2$ with Acetylene},
 volume = {102},
 pages = {5857-5866},
@@ -1380,7 +1380,7 @@ year = {1998}
 
 @article{Goulay09,
 author = {Fabien Goulay and Adam J. Trevitt and Giovanni Meloni and Talitha M. Selby and David L. Osborn and Craig A. Taatjes and Luc Vereecken and Stephen R. Leone},
-journal = {J. Am. Chem. Soc.},
+journal = {Journal of the American Chemical Society},
 title = {Cyclic Versus Linear Isomers Produced by Reaction of the Methylidyne Radical ({CH}) with Small Unsaturated Hydrocarbons},
 volume = {131},
 pages = {993-1005},
@@ -1389,7 +1389,7 @@ year = {2009}
 
 @article{Heikkila99,
 author = {A. Heikkil\"{a} and L. E. B. Johansson and H. Olofsson},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Molecular abundance variations in the {M}agellanic {C}louds},
 volume = {344},
 pages = {817-847},
@@ -1398,7 +1398,7 @@ year = {1999}
 
 @article{Vosko80,
 author = {S. H. Vosko and L. Wilk and M. Nusair},
-journal = {Can. J. Phys.},
+journal = {Canadian Journal of Physics},
 title = {Accurate spin-dependent electron liquid correlation energies for local spin density calculations: a critical analysis},
 volume = {58},
 pages = {1200-1211},
@@ -1407,7 +1407,7 @@ year={1980}
 
 @article{Stephens94,
 author = {P. J. Stephens and F. J. Devlin and C. F. Chablowski and M. J. Frisch},
-journal = {J. Phys. Chem.},
+journal = {Journal of Physical Chemistry},
 title = {Ab Initio Calculation of Vibrational Absorption and Circular Dichroism Spectra Using Density Functional Force Fields},
 volume = {98},
 pages = {11623-11627},
@@ -1416,7 +1416,7 @@ year = {1994}
 
 @article{Becke93,
 author = {Axel D. Becke},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Density-functional thermochemistry. {III}. {T}he role of exact exchange},
 volume = {98},
 pages = {5648-5652},
@@ -1425,7 +1425,7 @@ year = {1993}
 
 @article{Lee88,
 author = {Chengteh Lee and Weitao Yang and Robert G. Parr},
-journal = {Phys. Rev. B},
+journal = {Physical Review B},
 title = {Development of the {C}olle-{S}alvetti correlation-energy formula into a functional of the electron density},
 volume = {37},
 pages = {785-789},
@@ -1434,7 +1434,7 @@ year = {1988}
 
 @article{Hanni22,
 author = {N. H\"{a}nni and K. Altwegg and M. Combi and S. A. Fuselier and J. {D}e {K}eyser and M. Rubin and S. F. Wampfier},
-journal = {Nat. Commun.},
+journal = {Nature Communications},
 title = {Identification and characterization of a new ensemble of cometary organic molecules},
 volume = {13},
 year = {2022}
@@ -1442,7 +1442,7 @@ year = {2022}
 
 @article{Barone22,
 author = {Vincenzo Barone and Cristina Puzzarini},
-journal = {Front. Astron. Space Sci.},
+journal = {Frontiers in Astronomy and Space Sciences},
 title = {Toward Accurate Formation Routes of Complex Organic Molecules in the Interstellar Medium: The Paradigmatic Cases of Acrylonitrile and Cyanomethanimine},
 volume = {8},
 year = {2022}
@@ -1450,7 +1450,7 @@ year = {2022}
 
 @article{Gatchell21,
 author = {Michael Gatchell and Jo\~{a}o Ameixa and MingChao Ji and Mark H. Stockett and Ansgar Simonsson and Stephan Denifl and Henrik Cedarquist and Henning T, Schmidt and Henning Zettergren},
-journal = {Nat. Commun.},
+journal = {Nature Communications},
 title = {Survival of polycyclic aromatic hydrocarbon knockout fragments in the interstellar medium},
 volume = {12},
 year = {2021}
@@ -1458,7 +1458,7 @@ year = {2021}
 
 @article{Lamberts18,
 author = {T. Lamberts},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {From interstellar carbon monosulfide to methyl mercaptan: paths of least resistance},
 volume = {615},
 year = {2018}
@@ -1466,7 +1466,7 @@ year = {2018}
 
 @article{Simons20,
 author = {M. A. J. Simons and T. Lamberts and H. M. Cuppin},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Formation of {COM}s through {CO} hydrogenation on interstellar grains},
 volume = {634},
 year = {2020}
@@ -1474,7 +1474,7 @@ year = {2020}
 
 @article{Thon22,
 author = {L. {A}lvarez-{T}hon and T. J. Lee and R. C. Fortenberry and N. Inostroza-Pino},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Quantification of molecular aromaticity as a predictive factor of astrophysical significance},
 volume = {662},
 year = {2022}
@@ -1491,7 +1491,7 @@ year = {2021}
 
 @article{Lan15,
 author = {{T.-W.} Lan and Brice M\'{e}nard and Guangtun Zhu},
-journal = {Mon. Not. R. Astron. Soc.},
+journal = {Monthly Notices of the Royal Astronomical Society},
 title = {Exploring the diffuse interstellar bands with the {S}loan {D}igital {S}ky {S}urvey},
 volume = {452},
 pages = {3629–3649},
@@ -1508,7 +1508,7 @@ year = {2014}
 
 @article{Tucker74,
 author = {K. D. Tucker and M. L. Kutner and P. Thaddeus},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {The Ethynyl Radical {C}$_2${H}-{A} New Interstellar Molecule},
 volume = {193},
 pages = {L115-L119},
@@ -1517,7 +1517,7 @@ year = {1974}
 
 @article{Tucker78,
 author = {K. D. Tucker and M. L. Kutner},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {The abundance and distribution of interstellar {C}$_2${H}},
 volume = {222},
 pages = {859-862},
@@ -1526,7 +1526,7 @@ year = {1978}
 
 @article{Vrtilek85,
 author = {J. M. Vrtilek and C. A. Gottlieb and W. D. Langer and P. Thaddeus and R. W. Wilson},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Laboratory and astronomical detection of the deuterated ethynyl radical {CCD}},
 volume = {296},
 pages = {L35-L38},
@@ -1535,7 +1535,7 @@ year = {1985}
 
 @article{Combes85,
 author = {F. Combes and F. Boulanger and P. J. Encrenaz and M. Gerin and M. Bogey and C. Demuynck and J. L. Destomb},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Detection of interstellar {CCD}},
 volume = {147},
 pages = {L25-L26},
@@ -1544,7 +1544,7 @@ year = {1985}
 
 @article{Saleck94,
 author = {A. H. Saleck and R. Simon and G. Winnewisser and J. G. A. Wouterloot},
-journal = {Can. J. Phys.},
+journal = {Canadian Journal of Physics},
 title = {Detection of interstellar $^13${CCH} and {C}$^13${CH}},
 volume = {72},
 year = {1994}
@@ -1552,7 +1552,7 @@ year = {1994}
 
 @article{Werner85,
 author = {H.-J. Werner and Peter J. Knowles},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {A second order multiconfiguration {SCF} procedure with optimum convergence},
 volume = {82},
 pages = {5053-5063},
@@ -1561,7 +1561,7 @@ year = {1985}
 
 @article{Knowles85,
 author = {Peter J. Knowles and H.-J. Werner},
-journal = {Chem. Phys. Lett.},
+journal = {Chemical Physics Letters},
 title = {An efficient second-order {MC SCF} method for long configuration expansions},
 volume = {115},
 pages = {259-267},
@@ -1570,7 +1570,7 @@ year = {1985}
 
 @article{Kreplin20,
 author = {David A. Kreplin and Peter J. Knowles and H.-J. Werner},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {{MCSCF} optimization revisited. {II}. {C}ombined first- and second-order orbital optimization for large molecules},
 volume = {152},
 year = {2020}
@@ -1578,7 +1578,7 @@ year = {2020}
 
 @article{Kreplin19,
 author = {David A. Kreplin and Peter J. Knowles and H.-J. Werner},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Second-order {MCSCF} optimization revisited. {I}. {I}mproved algorithms for fast and robust second-order {CASSCF} convergence},
 volume = {150},
 year = {2019}
@@ -1586,7 +1586,7 @@ year = {2019}
 
 @article{Rimola21,
 author = {Albert Rimola and Stefan T. Bromley},
-journal = {Front. Astron. Space Sci.},
+journal = {Frontiers in Astronomy and Space Sciences},
 title = {Formation of Interstellar Silicate Dust via Nanocluster Aggregation: {I}nsights From Quantum Chemistry Simulations},
 volume = {8},
 year = {2021}
@@ -1594,7 +1594,7 @@ year = {2021}
 
 @article{Li21,
 author = {J. Li and E. A. Bergin and G. A. Blake and F. J. Ciesla and M. M. Hirschmann},
-journal = {Sci. Adv.},
+journal = {Science Advances},
 title = {Earth’s carbon deficit caused by early loss through irreversible sublimation},
 volume = {7},
 year = {2021}
@@ -1602,7 +1602,7 @@ year = {2021}
 
 @article{Huggins84,
 author = {P. J. Huggins and W. J. Carlson and A. L. Kinney},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {The distribution and abundance of interstellar {C}$_2${H}},
 volume = {133},
 pages = {347-356},
@@ -1611,7 +1611,7 @@ year = {1984}
 
 @article{Fortenberry19QFF,
 author = {Ryan C. Fortenberry and Timothy J. Lee},
-journal = {Annu. Rep. Comput. Chem.},
+journal = {Annual Reports in Computational Chemistry},
 pages = {173-202},
 title = {Computational Vibrational Spectroscopy for the Detection of Molecules in Space},
 volume = {15},
@@ -1629,7 +1629,7 @@ year = {2009}
 @incollection{ccreview,
 address = {New York},
 author = {T. D. Crawford and H. F. {Schaefer III}},
-booktitle = {Rev. Comput. Chem.},
+booktitle = {Reviews in Computational Chemistry},
 editor = {K. B. Lipkowitz and D. B. Boyd},
 pages = {33-136},
 publisher = {Wiley},
@@ -1640,7 +1640,7 @@ year = {2000}
 
 @article{Yousaf08,
 author = {Kazim E. Yousaf and Kirk A. Peterson},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 pages = {184108},
 title = {Optimized Auxiliary Basis Sets for Explicitly Correlated Methods},
 volume = {129},
@@ -1649,7 +1649,7 @@ year = {2008}
 
 @article{Douglas74,
 author = {M. Douglas and N. Kroll},
-journal = {Ann. Phys.},
+journal = {Annals of Physics},
 pages = {89-155},
 title = {Quantum Electrodynamical Corrections to the Fine Structure of Helium},
 volume = {82},
@@ -1658,7 +1658,7 @@ year = {1974}
 
 @article{Jansen89,
 author = {G. Jansen and B. A. Hess},
-journal = {Phys. Rev. A},
+journal = {Physical Review A},
 pages = {6016-6017},
 title = {Revision of the Douglas-Kroll Hamiltonian},
 volume = {39},
@@ -1673,7 +1673,7 @@ year = {2005}
 
 @article{Cui98,
 author = {Qiang Cui and Keiji Morokuma},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {\textit{Ab initio} molecular orbital studies on the structure, energies, and photodissociation of the electronic excited states of {C}$_2${H}},
 volume = {108},
 pages = {626-636},
@@ -1682,7 +1682,7 @@ year = {1998}
 
 @article{ArturdelaVillarmois19,
 author = {E. {Artur de la Villarmois} and L. E. Kristensen and J. K. J\o{}rgensen},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Revealing the chemical structure of the {C}lass {I} disc {Oph-IRS 67\star}},
 volume = {627},
 pages = {A37},
@@ -1691,7 +1691,7 @@ year = {2019}
 
 @article{vanDishoeck98,
 author = {Ewine F. {van Dishoeck} and Geoffrey A. Blake},
-journal = {Annu. Rev. Astron. Astrophys.},
+journal = {Annual Review of Astronomy and Astrophysics},
 title = {Chemical Evolution of Star-Forming Regions},
 volume = {36},
 pages = {317-368},
@@ -1700,7 +1700,7 @@ year = {1998}
 
 @article{Oberg11,
 author = {Karin I. \"{O}berg and Chunhua Qi and Jeffrey K. J. Fogel and Edwin A. Bergin and Sean M. Andrews and Catherine Espaillat and David J. Wilner and Ilaria Pascucci and Joel H. Kastner},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Disk Imaging Survey of Chemistry with {SMA.} {II.} {S}outhern Sky Protoplanetary Disk Data and Full Sample Statistics},
 volume = {734},
 pages = {98},
@@ -1709,7 +1709,7 @@ year = {2011}
 
 @article{Keping12,
 author = {Keping Qiu and Qizhou Zhang and Henrik Beuther and Cassandra Fallscheer},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Forming an {O} Star via Disk Accretion?},
 volume = {756},
 pages = {170},
@@ -1718,7 +1718,7 @@ year = {2012}
 
 @article{Zapata07,
 author = {L. A. Zapata and A. Palau and P. T. P. Ho and P. Schilke and R. T. Garrod and L. F. Rodr\'{i}guez and K. Menten},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Forming an early {O}-type star through gas accretion?},
 volume = {479},
 pages = {L25-L28},
@@ -1727,7 +1727,7 @@ year = {2007}
 
 @article{Paron21,
 author = {S. Paron and M. E. Ortega and A. Marinelli and M. B. Areal and N. C. Martinez},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Cyano radical emission at small spatial scales towards massive protostars},
 volume = {653},
 pages = {A77},
@@ -1755,7 +1755,7 @@ publisher = {Intech{O}pen}
 
 @article{McCarthy21,
 author = {Michael C. Mc{C}arthy and Brett A. Mc{G}uire},
-journal = {J. Phys. Chem. A},
+journal = {Journal of Physical Chemistry A},
 title = {Aromatics and Cyclic Molecules in Molecular Clouds: {A} New Dimension of Interstellar Organic Chemistry},
 volume = {125},
 pages = {3231-3243},
@@ -1764,7 +1764,7 @@ year = {2021}
 
 @article{Foster80,
 author = {J. P. Foster and F. Weinhold},
-journal = {J. Am. Chem. Soc.},
+journal = {Journal of the American Chemical Society},
 title = {Natural hybrid orbitals},
 volume = {102},
 pages = {7211-7218},
@@ -1773,7 +1773,7 @@ year = {1980}
 
 @article{Reed83,
 author = {A. E. Reed and F. Weinhold},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Natural bond orbital analysis of near-{H}artree-{F}ock water dimer},
 volume = {78},
 pages = {4066-4073},
@@ -1782,7 +1782,7 @@ year = {1983}
 
 @article{Reed85a,
 author = {A. E. Reed and R. B. Weinstock and F. Weinhold},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Natural-population analysis},
 volume = {83},
 pages = {735-746},
@@ -1791,7 +1791,7 @@ year = {1985}
 
 @article{Reed85b,
 author = {A. E. Reed and F. Weinhold},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Natural localized molecular orbitals},
 volume = {83},
 pages = {1736-1740},
@@ -1817,7 +1817,7 @@ month = {May}
 
 @article{Reed88,
 author = {A. E. Reed and L. A. Curtiss and F. Weinhold},
-journal = {Chem. Rev.},
+journal = {Chemical Reviews},
 title = {Intermolecular interactions from a natural bond orbital, donor-acceptor viewpoint},
 volume = {88},
 pages = {899-926},
@@ -1836,7 +1836,7 @@ title = {The Natural Bond Orbital Lewis Structure Concept for Molecules, Radical
 
 @article{Carpenter88,
 author = {J. E. Carpenter and F. Weinhold},
-journal = {J. Mol. Struct.},
+journal = {Journal of Molecular Structure},
 title = {Analysis of the geometry of the hydroxymethyl radical by the `` different hybrids for different spins '' natural bond orbital procedure},
 volume = {169},
 pages = {41-62},
@@ -1845,7 +1845,7 @@ year = {1988}
 
 @article{Hao14,
 author = {Yanjun Hao and Yaoming Xie and Henry F. {Schaefer {III}}},
-journal = {RSC Adv.},
+journal = {RSC Advances},
 title = {Features of the potential energy surface for the {SiO + OH} $\rightarrow$ {SiO$_2$ + H} reaction: relationship to oxygen isotopic partitioning during gas phase {SiO$_2$} formation},
 volume = {4},
 pages = {47163-47168},
@@ -1854,7 +1854,7 @@ year = {2014}
 
 @article{Corby18,
 author = {J. F. Corby and B. A. Mc{G}uire and E. Herbst and A. J. Remijan},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {The molecular chemistry of diffuse and translucent clouds in the line-of-sight to {Sgr B2}: {A}bsorption by simple organic and inorganic molecules in the {GBT PRIMOS} survey},
 volume = {610},
 pages = {A10},
@@ -1863,7 +1863,7 @@ year = {2018}
 
 @article{Chandra05,
 author = {Suresh Chandra and Pramod G. Musrif and Ram M. Dharmkare},
-journal = {New Astron.},
+journal = {New Astronomy},
 title = {Suggestions for an interstellar {C$_7$H$_2$} search},
 volume = {10},
 pages = {385-391},
@@ -1872,7 +1872,7 @@ year = {2005}
 
 @article{Thimmakondu17,
 author = {Venkatesan S. Thimmakondu and Amir Karton},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {Energetic and spectroscopic properties of the low-lying {C$_7$H$_2$} isomers: a high-level \textit{ab initio} perspective},
 volume = {19},
 pages = {17685-17697},
@@ -1881,7 +1881,7 @@ year = {2017}
 
 @article{Aoki94,
 author = {Kozo Aoki and Shigeru Ikuta},
-journal = {J. Mol. Struct.},
+journal = {Journal of Molecular Structure},
 title = {The singlet with a {C3} ring: the probable candidate of {HC$_6$N} and {C$_7$H$_2$}},
 volume = {310},
 pages = {229-238},
@@ -1890,7 +1890,7 @@ year = {1994}
 
 @article{Thaddeus98,
 author = {P. Thaddeus and M. C. Mc{C}arthy and M. J. Travers and C. A. Gottlieb and W. Chen},
-journal  = {Faraday Discuss.},
+journal  = {Faraday Discussions},
 title = {New carbon chains in the laboratory and in interstellar space},
 volume = {109},
 pages = {121-135},
@@ -1899,7 +1899,7 @@ year = {1998}
 
 @article{Jiang04,
 author = {{Z.-Y.} Jiang and {X.-H.} Xu and {H.-S.} Wu and {F.-Q.} Zhang and {Z.-H.} Jin},
-journal = {Int. J. Quantum Chem.},
+journal = {International Journal of Quantum Chemistry},
 title = {First principles study of the structure, electronic state, and stability of {C$_m$N$_n$} clusters},
 volume = {97},
 pages = {876-882},
@@ -1908,7 +1908,7 @@ year = {2004}
 
 @article{Yang11,
 author = {Zhibo Yang and Callie A. Cole and Oscar {Martinez, Jr.} and Marshall Y. Carpenter and Theodore P. Snow and Veronica M. Bierbaum},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {EXPERIMENTAL AND THEORETICAL STUDIES OF REACTIONS BETWEEN {H} ATOMS AND NITROGEN-CONTAINING CARBANIONS},
 volume = {739},
 pages = {19},
@@ -1917,7 +1917,7 @@ year = {2011}
 
 @article{Scemama02,
 author = {Anthony Scemama and Patrick Chaquin and {M.-C.} Gazeau and Yves B\'{e}nilan},
-journal = {J. Phys. Chem. A},
+journal = {Journal of Physical Chemistry A},
 title = {Theoretical Study of the Structure and Properties of Polyynes and Monocyano- and Dicyanopolyynes: {P}redictions for Long Chain Compounds},
 volume = {106},
 pages = {3828-3837},
@@ -1926,7 +1926,7 @@ year = {2002}
 
 @article{Belbruno01,
 author = {Joseph J. Belbruno and {Z.-C.} Tang and Roger Smith and Steven Hobday},
-journal = {Mol. Phys.},
+journal = {Molecular Physics},
 title = {The structure and energetics of carbon-nitrogen clusters},
 volume = {99},
 pages = {957-967},
@@ -1935,7 +1935,7 @@ year = {2001}
 
 @article{Singh89,
 author = {Markandey Singh and Jai Prakash Chaturvedi},
-journal = {Astrophys. Space Sci.},
+journal = {Astrophysics and Space Science},
 title = {POLYATOMIC MOLECULES, MOLECULAR IONS, AND RADICALS OF ASTROPHYSICAL INTEREST, {II}},
 volume = {162},
 pages = {287-296},
@@ -1944,7 +1944,7 @@ year = {1989}
 
 @article{Smith94,
 author = {Alice M. Smith and Cornelia Engel and Anton Thoma and G\"{u}nther Schallmoser and Brent E. Wurfel and Vladimir E. Bondybey},
-journal = {Chem. Phys.},
+journal = {Chemical Physics},
 title = {Tentative identification of {C$_5$N$_2$} in rare gas matrices},
 volume = {184},
 pages = {233-245},
@@ -1953,7 +1953,7 @@ year = {1994}
 
 @article{Tittle99,
 author = {James Tittle and Daniel Merkoziaj and Ruifeng Liu},
-journal = {Chem. Phys. Lett.},
+journal = {Chemical Physics Letters},
 title = {Computational confirmation of {C$_5$N$_2$} observed in rare-gas matrices},
 volume = {305},
 pages = {451-457},
@@ -1962,7 +1962,7 @@ year = {1999}
 
 @article{Flint22,
 author = {Athena R. Flint and Ryan C. Fortenberry},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {The Formation of Monosubstituted Cyclopropenylidene Derivatives in the Interstellar Medium via Neutral–Neutral Reaction Pathways},
 volume = {938},
 pages = {15},
@@ -1989,7 +1989,7 @@ year = {2020}
 
 @article{Cernicharo20,
 author = {J. Cernicharo and N. Marcelino and M. Ag\'{u}ndez and C. Berm\'{u}dez and C. Cabezas and B. Tercero and J. R. Pardo},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Discovery of {HC$_4$NC} in {TMC-1}: A study of the isomers of {HC$_3$N}, {HC$_5$N}, and {HC$_7$N}},
 volume = {642},
 pages = {L8},
@@ -2007,7 +2007,7 @@ year = {2020}
 
 @article{McCarthy21,
 author = {Michael C. Mc{C}arthy and Kin Long Kelvin Lee and Ryan A. Loomis and Andrew M. Burkhardt and Christopher N. Shingledecker and Steven B. Charnley and Martin A. Cordiner and Eric Herbst and Sergei Kalenskii and Eric R. Willis and Ci Xue and Anthony J. Remijan and Brett A. Mc{G}uire},
-journal = {Nat. Astron.},
+journal = {Nature Astronomy},
 title = {Interstellar detection of the highly polar five-membered ring cyanocyclopentadiene},
 volume = {5},
 pages = {176-180},
@@ -2016,7 +2016,7 @@ year = {2021}
 
 @article{Loomis21,
 author = {Ryan A. Loomis and Andrew M. Burkhardt and Christopher N. Shingledecker and Steven B. Charnley and Martin A. Cordiner and Eric Herbst and Sergei Kalenskii and Kin Long Kelvin Lee and Eric R. Willis and Ci Xue and Anthony J. Remijan and Michael C. Mc{C}arthy and Brett A. Mc{G}uire},
-journal = {Nat. Astron.},
+journal = {Nature Astronomy},
 title = {An investigation of spectral line stacking techniques and application to the detection of {HC$_11$N}},
 volume = {5},
 pages = {188-196},
@@ -2051,7 +2051,7 @@ year = {2021}
 
 @article{Molpeceres22,
 author = {G. Molpeceres and V. M. Rivilla},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Radical addition and H abstraction reactions in {C$_2$H$_2$}, {C$_2$H$_4$}, and {C$_2$H$_6$}: {A} gateway for ethyl- and vinyl-bearing molecules in the interstellar medium},
 volume = {665},
 pages = {A27},
@@ -2060,7 +2060,7 @@ year = {2022}
 
 @article{Cernicharo21a,
 author = {J. Cernicharo and M. Ag\'{u}ndez and C. Cabezas and N. Marcelino and B. Tercero and J. R. Pardo and J. D. Gallego and F. Tercero and J. A. L\'{o}pez-{P}\'{e}rez and P. de {V}icente},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Discovery of {CH$_2$CHCCH} and detection of {HCCN, HC$_4$N, CH$_3$CH$_2$CN}, and, tentatively, {CH$_3$CH$_2$CCH} in {TMC-1}},
 volume = {647},
 pages = {L2},
@@ -2069,7 +2069,7 @@ year = {2021}
 
 @article{Cernicharo21b,
 author = {J. Cernicharo and C. Cabezas and M. Ag\'{u}ndez and B. Tercero and N. Marcelino and J. R. Pardo and F. Tercero and J. D. Gallego and J. A. L\'{o}pez-{P}\'{e}rez and P. de {V}icente},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Discovery of allenyl acetylene, {H$_2$CCCHCCH}, in {TMC-1}},
 volume = {647},
 pages = {L3},
@@ -2078,7 +2078,7 @@ year = {2021}
 
 @article{LYP86,
 author = {W. T. Yang and R. G. Parr and C. T. Lee},
-journal = {Phys. Rev. A},
+journal = {Physical Review A},
 title = {Various Functionals for the Kinetic Energy Density of an Atom or Molecule},
 volume = {34},
 pages = {4586-4590},
@@ -2087,7 +2087,7 @@ year = {1986}
 
 @article{Martin95,
 author = {Jan M. L. Martin and Timothy J. Lee and Peter R. Taylor and Jean-Pierre Fran\c{c}ois},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {The Anharmonic Force Field of Ethylene, {C$_2$H$_4$}, by Means of Accurate \textit{ab Initio} Calculations},
 volume = {103},
 pages = {2589-2602},
@@ -2096,7 +2096,7 @@ year = {1995}
 
 @article{Martin97,
 author = {Jan M. L. Martin and P. R. Taylor},
-journal = {Spectrochim. Acta, Part A},
+journal = {Spectrochimica Acta Part A},
 title = {Accurate \textit{ab Initio} Quartic Force Field for \textit{trans}-{HNNH} and Treatment of Resonance Polyads},
 volume = {53},
 pages = {1039-1050},
@@ -2111,7 +2111,7 @@ year = {1996}
 
 @article{Franke21,
 author = {Peter R. Franke and John F. Stanton and Gary E. Douberly},
-journal = {J. Phys. Chem. A},
+journal = {Journal of Physical Chemistry A},
 title = {How to {VPT2}: Accurate and Intuitive Simulations of {CH} Stretching Infrared Spectra Using {VPT2+K} with Large Effective Hamiltonian Resonance Treatments},
 volume = {125},
 pages = {1301-1324},
@@ -2139,7 +2139,7 @@ year = {1977}
 
 @article{Grimme10,
 author = {Stefan Grimme and Jens Antony and Stephan Ehrlich and Helge Krieg},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {A consistent and accurate \textit{ab initio} parameterization of density functional dispersion correction {(DFT-D)} for the 94 elements {H-Pu}},
 volume = {132},
 pages = {154014},
@@ -2148,7 +2148,7 @@ year = {2010}
 
 @article{Schneebeli11,
 author = {Severin T. Schneebeli and Arteum D. Bochevarov and Richard A. Friesner},
-journal = {J. Chem. Theory Comput.},
+journal = {Journal of Chemical Theory and Computation},
 title = {Parameterization of a {B3LYP} Specific Correction for Noncovalent Interactions and Basis Set Superposition Error on a Gigantic Data Set of {CCSD(T)} Quality Noncovalent Interaction Energies},
 volume = {7},
 pages = {658-668},
@@ -2157,7 +2157,7 @@ year = {2011}
 
 @article{Smith16,
 author = {Daniel G. A. Smith and Lori A. Burns and Konrad Patkowski and David C. Sherrill},
-journal = {J. Phys. Chem. Lett.},
+journal = {Journal of Physical Chemistry Letters},
 title = {Revised Damping Parameters for the {D3} Dispersion Correction to Density Functional Theory},
 volume = {7},
 pages = {2197-2203},
@@ -2166,7 +2166,7 @@ year = {2016}
 
 @article{Pople57,
 author = {J. A. Pople and J. W. Sidman},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Intensity of the Symmetry-Forbidden Electronic Absorption Band of Formaldehyde},
 volume = {27},
 pages = {1270-1277},
@@ -2175,7 +2175,7 @@ year = {1957}
 
 @article{Watrous22,
 author = {Alexandria G. Watrous and Brent R. Westbrook and Ryan C. Fortenberry},
-journal = {Front. Astron. Space Sci.},
+journal = {Frontiers in Astronomy and Space Sciences},
 title = {Theoretical Spectra and Energetics for {$c$-C$_3$HC$_2$H}, {$l$-C$_5$H$_2$}, and Bipyramidal {D$_{3h}$ C$_5$H$_2$}},
 volume = {},
 pages = {},
@@ -2184,7 +2184,7 @@ year = {2022}
 
 @article{Westbrook21b,
 author = {Brent R. Westbrook and E. Michael Valencia and Spencer C. Rushing and Gregory S. Tschumper and Ryan C. Fortenberry},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 pages = {041104},
 title = {Anharmonic Vibrational Frequencies of Ammonia Borane {(BH$_3$NH$_3$)}},
 volume = {154},
@@ -2193,7 +2193,7 @@ year = {2021}
 
 @article{Taherian21,
 author = {Roghaye Taherian and Behzad Chahkandi and Ehsan Zahedi},
-journal = {J. Mol. Graphics Modell.},
+journal = {Journal of Molecular Graphics and Modelling},
 title = {A comprehensive theoretical analysis of {C}urtius rearrangement of syn-syn and syn-anti conformers of oxalyl diazide},
 volume = {109},
 pages = {108012},
@@ -2202,7 +2202,7 @@ year = {2021}
 
 @article{Mencos17,
 author = {Alejandro Mencos and Sendres Nourry and Lahouari Krim},
-journal = {Mon. Not. R. Astron. Soc.},
+journal = {Monthly Notices of the Royal Astronomical Society},
 title = {Chemical pathways and kinetic rates of the {N(4S) + N2 $\rightarrow$ N3} solid phase reaction: could the {N3} radical be a temperature sensor of nitrogen ices in dense molecular clouds?},
 volume = {467},
 pages = {2150-2159},
@@ -2211,7 +2211,7 @@ year = {2017}
 
 @article{Pahnke88,
 author = {Ralph Pahnke and Stephen H. Ashworth and John M. Brown},
-journal = {Chem. Phys. Lett.},
+journal = {Chemical Physics Letters},
 title = {Detection of the {N3} free radical by laser magnetic resonance at 6.08 $\mu$m},
 volume = {147},
 pages = {2-3},
@@ -2220,7 +2220,7 @@ year = {1988}
 
 @article{Brazier88,
 author = {C. R. Brazier and P. F. Bernath and James B. Burkholder and Carleton J. Howard},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Fourier transform spectroscopy of the $\nu_3$ band of the {N$_3$} radical},
 volume = {89},
 pages = {1762-1767},
@@ -2229,7 +2229,7 @@ year = {1988}
 
 @article{Jamieson07,
 author = {Corey S. Jamieson and Ralf I. Kaiser},
-journal = {Chem. Phys. Lett.},
+journal = {Chemical Physics Letters},
 title = {Isotopic study of the formation of the azide radical {(N3)}},
 volume = {440},
 pages = {98-104},
@@ -2238,7 +2238,7 @@ year = {2007}
 
 @article{Beaman87,
 author = {R. A. Beaman and T. Nelson and D. S. Richards and D. W. Setser},
-journal = {J. Phys. Chem.},
+journal = {Journal of Physical Chemistry},
 title = {Observation of azido radical by laser-induced fluorescence},
 volume = {91},
 pages = {6090-6092},
@@ -2247,7 +2247,7 @@ year = {1987}
 
 @article{Li14,
 author = {Xiaohu Li and Tom J. Millar and Catherine Walsh and Alan N. Heays and Ewine F. {van Dishoeck}},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Photodissociation and chemistry of {N$_2$} in the circumstellar envelope of carbon-rich {AGB} stars},
 volume = {568},
 pages = {A111},
@@ -2256,7 +2256,7 @@ year = {2014}
 
 @article{Continetti93,
 author = {R. E. Continetti and D. R. Cyr and D. L. Osborn and D. J. Leahy and D. M. Neumark},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Photodissociation dynamics of the {N$_3$} radical},
 volume = {99},
 pages = {2616-2631},
@@ -2265,7 +2265,7 @@ year = {1993}
 
 @article{Ge20,
 author = {Liang Ge and Mong-{F}eng Chiou and Yajun Li and Hongli Bao},
-journal = {Green Synth. Catal.},
+journal = {Green Synthesis and Catalysis},
 title = {Radical azidation as a means of constructing {C(sp3)-N3} bonds},
 volume = {1},
 pages = {86-120},
@@ -2274,7 +2274,7 @@ year = {2020}
 
 @article{Andrews00,
 author = {Lester Andrews and Mingfei Zhou and George V. Chertihin and William D. Bare and Yacine Hannachi},
-journal = {J. Phys. Chem. A},
+journal = {Journal of Physical Chemistry A},
 title = {Reactions of Laser-Ablated Aluminum Atoms with Nitrogen Atoms and Molecules. {I}nfrared Spectra and Density Functional Calculations for the {AlN$_2$, Al$_2$N, Al$_2$N$_2$, AlN$_3$}, and {Al$_3$N} Molecules},
 volume = {104},
 pages = {1656-1661},
@@ -2283,7 +2283,7 @@ year = {2000}
 
 @article{Zhou00,
 author = {Mingfei Zhou and Lester Andrews},
-journal = {J. Phys. Chem. A},
+journal = {Journal of Physical Chemistry A},
 title = {Reactions of Laser-Ablated {Ga, In}, and {Tl} Atoms with Nitrogen Atoms and Molecules. {I}nfrared Spectra and Density Functional Calculations of {GaN, NGaN, NInN}, and the {M$_3$N} and {MN$_3$} Molecules},
 volume = {104},
 pages = {1648-1655},
@@ -2292,7 +2292,7 @@ year = {2000}
 
 @article{Huang16,
 author = {Xiongyi Huang and John T. Groves},
-journal = {ACS Catal.},
+journal = {ACS Catalysis},
 title = {Taming Azide Radicals for Catalytic {C–H} Azidation},
 volume = {6},
 pages = {751-759},
@@ -2301,7 +2301,7 @@ year = {2016}
 
 @article{Nourry15,
 author = {Sendres Nourry and Lahouari Krim},
-journal = {Mon. Not. R. Astron. Soc.},
+journal = {Monthly Notices of the Royal Astronomical Society},
 title = {The chemical stability of {CH$_3$OH} on cold interstellar grains: heat-induced dehydrogenation processes of methanol},
 volume = {452},
 pages = {3319-3333},
@@ -2310,7 +2310,7 @@ year = {2015}
 
 @article{Tarwade08,
 author = {Vinod Tarwade and Olga Dmitrenko and Robert D. Bach and Joseph M. Fox},
-journal = {J. Org. Chem.},
+journal = {Journal of Organic Chemistry},
 title = {The {C}urtius Rearrangement of Cyclopropyl and Cyclopropenoyl Azides. A Combined Theoretical and Experimental Mechanistic Study},
 volume = {73},
 pages = {8189-8197},
@@ -2319,7 +2319,7 @@ year = {2008}
 
 @article{Ghosh18,
 author = {Arun K. Ghosh and Anindya Sarkar and Margherita Brindisi},
-journal = {Org. Biomol. Chem.},
+journal = {Organic and Biomolecular Chemistry},
 title = {The {C}urtius rearrangement: mechanistic insight and recent applications in natural product syntheses},
 volume = {16},
 pages = {2006-2027},
@@ -2328,7 +2328,7 @@ year = {2018}
 
 @article{Yukawa57,
 author = {Yasuhide Yukawa and Yuho Tsuno},
-journal = {J. Am. Chem. Soc.},
+journal = {Journal of the American Chemical Society},
 title = {The {C}urtius Rearrangement. {I.} {T}he Decomposition of {m-} and {p-}Substituted Benzazides in Toluene},
 volume = {79},
 pages = {5530-5534},
@@ -2337,7 +2337,7 @@ year = {1957}
 
 @article{Hudson02,
 author = {R. L. Hudson and M. H. Moore},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {The {N$_3$}  Radical as a Discriminator between Ion‐irradiated And {UV}‐photolyzed Astronomical Ices},
 volume = {568},
 pages = {1095-1099},
@@ -2346,7 +2346,7 @@ year = {2002}
 
 @article{Tian88,
 author = {Rujiang Tian and Julio C. Facelli and Josef Michl},
-journal = {J. Phys. Chem.},
+journal = {Journal of Physical Chemistry},
 title = {Vibrational and electronic spectra of matrix-isolated nitrogen trimer radical and azide},
 volume = {92},
 pages = {4073-4079},
@@ -2355,7 +2355,7 @@ year = {1988}
 
 @article{Gottlieb88,
 author = {C. A. Gottlieb and M. C. Mc{C}arthy and V. D. Gordon and J. M. Chakan and A. J. Apponi and P. Thaddeus},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Laboratory Detection of Two New {C$_5$H$_2$} Isomers},
 volume = {509},
 pages = {L141},
@@ -2364,7 +2364,7 @@ year = {1988}
 
 @article{Reusch19,
 author = {Engelbert Reusch and Dustin Kaiser and Domenik Schleier and Rachel Buschmann and Anke Krueger and Thomas Hermann and Bernd Engels and Ingo Fischer and Patrick Hemberger},
-journal = {J. Phys. Chem. A},
+journal = {Journal of Physical Chemistry A},
 title = {Pentadiynylidene and Its Methyl-Substituted Derivates: {T}hreshold Photoelectron Spectroscopy of {R$_1$-C$_5$-R$_2$} Triplet Carbon Chains},
 volume = {123},
 pages = {2008-2017},
@@ -2373,7 +2373,7 @@ year = {2019}
 
 @article{Hollis06,
 author = {J. M. Hollis and Anthony J. Remijan and P. R. Jewell and F. J. Lovas},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Cyclopropenone {(c-H$_2$C$_3$O)}: {A} New Interstellar Ring Molecule},
 volume = {642},
 pages = {933-939},
@@ -2382,7 +2382,7 @@ year = {2006}
 
 @article{Loomis15,
 author = {Ryan A. Loomis and Brett A. McGuire and Christopher Shingledecker and Chelen H. Johnson and Samantha Blair and Amy Robertson and Anthony J. Remijan},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {INVESTIGATING THE MINIMUM ENERGY PRINCIPLE IN SEARCHES FOR NEW MOLECULAR SPECIES—THE CASE OF {H$_2$C$_3$O} ISOMERS},
 volume = {799},
 pages = {34},
@@ -2391,7 +2391,7 @@ year = {2015}
 
 @article{Quan07,
 author = {D. Quan and E. Herbst},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Possible gas-phase syntheses for seven neutral molecules studied recently with the {G}reen {B}ank {T}elescope},
 volume = {474},
 pages = {521-527},
@@ -2400,7 +2400,7 @@ year = {2007}
 
 @article{Loison16,
 author = {{{J}ean-{C}hristophe} Loison and Marcelino Ag\'{u}ndez and N\'{u}ria Marcelino and Valentine Wakelam and Kevin M. Hickson and Jos\'{e} Cernicharo and Maryvonne Gerin and Evelyne Roueff and Michel Gu\'{e}lin},
-journal = {Mon. Not. R. Astron. Soc.},
+journal = {Monthly Notices of the Royal Astronomical Society},
 title = {The interstellar chemistry of {H$_2$C$_3$O} isomers},
 volume = {456},
 pages = {4101-4110},
@@ -2409,7 +2409,7 @@ year = {2016},
 
 @article{Ahmadvand14,
 author = {Seyedsaeid Ahmadvand and Ryan R. Zaari and Sergey A. Varganov},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {SPIN-FORBIDDEN AND SPIN-ALLOWED CYCLOPROPENONE {(c-H$_2$C$_3$O)} FORMATION IN INTERSTELLAR MEDIUM},
 volume = {795},
 pages = {173},
@@ -2418,7 +2418,7 @@ year = {2014}
 
 @article{Zhou08,
 author = {Li Zhou and Ralf I. Kaiser and Li {G}yun Gao and Agnes H. {H}. Chang and Mao-{C}hang Liang and Yuk L. Yung},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Pathways to Oxygen-Bearing Molecules in the Interstellar Medium and in Planetary Atmospheres: Cyclopropenone {(c-C$_3$H$_2$O)} and Propynal {(HCCCHO)}},
 volume = {686},
 pages = {1493},
@@ -2427,7 +2427,7 @@ year = {2008}
 
 @article{Wang21,
 author = {Yao Wang and Fujun Du and Dmitry Semenov and Hongchi Wang and Juan Li},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Chemical modeling of the complex organic molecules in the extended region around {S}agittarius {B2}},
 volume = {648},
 pages = {A72},
@@ -2445,7 +2445,7 @@ year = {2016}
 
 @article{ROHF-Pop,
 author = {J. S. Brinkley and J. A. Pople and P. S. Dobosh},
-journal = {Mol. Phys.},
+journal = {Molecular Physics},
 volume = {28},
 pages = {1423-1429},
 year = {1974}
@@ -2453,7 +2453,7 @@ year = {1974}
 
 @article{Watts-ROHF93,
 author = {J. D. Watts and J. Gauss and R. J. Bartlett},
-journal = {J. Chem. Phys.},
+journal = {Journal of Chemical Physics},
 title = {Coupled-Cluster Methods with Noniterative Triple Excitations for Restricted Open-Shell {H}artree-{F}ock and Other General Single Determinant Reference Functions. Energies and Analytical Gradients},
 volume = {98},
 pages = {8718-8733},
@@ -2470,7 +2470,7 @@ address = {Cambridge, {UK}}
 
 @article{Garcia22,
 author = {O. S. {Rojas-{G}arc\'{i}a} and A. I. {G\'{o}mez-{R}uiz} and A. Palau and M. T. {Orozco-{A}guilera} and M. Chavez Dagostino and S. E. Kurtz},
-journal = {Astrophys. J. Suppl. Ser.},
+journal = {Astrophysical Journal Supplement Series},
 title = {Interstellar Complex Organic Molecules in {SiO}-traced Massive Outflows},
 volume = {262},
 pages = {13},
@@ -2479,7 +2479,7 @@ year = {2022}
 
 @article{Norden86,
 author = {Timothy D. Norden and Stuart W. Staley and William H. Taylor and Marlin D. Harmony},
-journal = {J. Am. Chem. Soc.},
+journal = {Journal of the American Chemical Society},
 title = {Electronic character of methylenecyclopropene: microwave spectrum, structure, and dipole moment},
 volume = {108},
 pages = {7912-7918},
@@ -2488,7 +2488,7 @@ year = {1986}
 
 @article{Bogey91,
 author = {Marcel Bogey and Michel Cordonnier and {Jean-{L}uc} Destombes and {Jean-{M}arc} Denis and {Jean-{C}laude} Guillemin},
-journal = {J. Mol. Spectrosc.},
+journal = {Journal of Molecular Spectroscopy},
 title = {Millimeter and submillimeter-wave spectrum of methylenecyclopropene},
 volume = {149},
 pages = {230-234},
@@ -2497,7 +2497,7 @@ year = {1991}
 
 @article{Billups84,
 author = {W. E. Billups and Long Jin Lin and Edward W. Casserly},
-journal = {J. Am. Chem. Soc.},
+journal = {Journal of the American Chemical Society},
 title = {Synthesis of methylenecyclopropene},
 volume = {106},
 pages = {3698-3699},
@@ -2506,7 +2506,7 @@ year = {1984}
 
 @article{CDMS,
 author = {Holger S. P. M\"{u}ller and Frank Schl\"{o}der and J\"{u}rgen Stutzki and Gisbert Winnewisser},
-journal = {J. Mol. Struct.},
+journal = {Journal of Molecular Structure},
 title = {The {C}ologne {D}atabase for {M}olecular {S}pectroscopy, {CDMS}: a useful tool for astronomers and spectroscopists},
 volume = {742},
 pages = {215-227},
@@ -2515,9 +2515,9 @@ year = {2005}
 
 @article{Roberts52,
 author = {John D. Roberts and Andrew Streitwieser and Clare M. Regan},
-journal = {J. Am. Chem. Soc.},
+journal = {Journal of the American Chemical Society},
 title = {Small-Ring Compounds. {X}. {M}olecular Orbital Calculations of Properties of Some Small-Ring Hydrocarbons and Free Radicals},
-journal = {J. Am. Chem. Soc.},
+journal = {Journal of the American Chemical Society},
 volume = {74},
 pages = {4579-4582},
 year = {1952}
@@ -2525,7 +2525,7 @@ year = {1952}
 
 @article{Burk96,
 author = {Peeter Burk and {Jose-{L}uis} M. Abboud and Ilmar A. Koppel},
-journal = {J. Phys. Chem.},
+journal = {Journal of Physical Chemistry},
 title = {Aromaticity of Substituted Cyclopropenes: {A} Theoretical Study},
 volume = {100},
 pages = {6992-6997},
@@ -2534,7 +2534,7 @@ year = {1996}
 
 @article{Wang10,
 author = {Yan Wang and Israel Fern\'{a}ndez and Matthew Duvall and Judy {I-{C}hia} Wu and Qianshu Li and Gernot Frenking and Paul {von} {R}agu\'{e} Schleyer},
-journal = {J. Org. Chem.},
+journal = {Journal of Organic Chemistry},
 title = {Consistent Aromaticity Evaluations of Methylenecyclopropene Analogues},
 volume = {75},
 pages = {8252-8257},
@@ -2543,7 +2543,7 @@ year = {2010}
 
 @article{Wiberg98,
 author = {Kenneth B. Wiberg and Manuel Marquez},
-journal = {J. Am. Chem. Soc.},
+journal = {Journal of the American Chemical Society},
 title = {Effect of Fluorine Substitution on the Energies of Small Ring Compounds},
 volume = {120},
 pages = {2932-2938},
@@ -2552,7 +2552,7 @@ year = {1998}
 
 @article{Row18,
 author = {R. David Row and Jennifer A. Prescher},
-journal = {Org. Lett.},
+journal = {Organic Letters},
 title = {A Cyclopropenethione-Phosphine Ligation for Rapid Biomolecule Labeling},
 volume = {20},
 pages = {5614-5617},
@@ -2561,7 +2561,7 @@ year = {2018}
 
 @article{Sahin16,
 author = {Sevgi \c{S}ahin and Erdi A. Bleda and Zikri Altun and Carl Trindle},
-journal = {Int. J. Quantum Chem.},
+journal = {International Journal of Quantum Chemistry},
 title = {Computational characterization of isomeric {C$_4$H$_2$O} systems: {T}hermochemistry, vibrational frequencies, and optical spectra for butatrienone, ethynyl ketene, butadiynol, and triafulvenone},
 volume = {116},
 pages = {444-451},
@@ -2570,7 +2570,7 @@ year = {2016}
 
 @article{Stukenbroeker15,
 author = {Tyler S. Stukenbroeker and Jeffrey S. Bandar and Xiangyi Zhang and Tristan H. Lambert and Robert M. Waymouth},
-journal = {ACS Macro Lett.},
+journal = {ACS Macro Letters},
 title = {Cyclopropenimine Superbases: {C}ompetitive Initiation Processes in Lactide Polymerization},
 volume = {4},
 pages = {853-856},
@@ -2579,7 +2579,7 @@ year = {2015}
 
 @article{Bandar13,
 author = {Jeffrey S. Bandar and Tristan H. Lambert},
-journal = {J. Am. Chem. Soc.},
+journal = {Journal of the American Chemical Society},
 title = {Cyclopropenimine-Catalyzed Enantioselective Mannich Reactions of \textit{tert}-Butyl Glycinates with \textit{N}-Boc-Imines},
 volume = {135},
 pages = {11799-11802},
@@ -2588,7 +2588,7 @@ year = {2013}
 
 @article{Raiguru20,
 author = {Bishnu {Prasad {R}aiguru} and Sabita Nayak and Deepak {Ranjan {M}ishra} and Tapaswini Das and Seetaram Mohapatra and Nilima {Priyadarsini {M}ishra}},
-journal = {Asian J. Org. Chem.},
+journal = {Asian Journal of Organic Chemistry},
 title = {Synthetic Applications of Cyclopropene and Cyclopropenone: {R}ecent Progress and Developments},
 volume = {9},
 pages = {1088-1132},
@@ -2597,7 +2597,7 @@ year = {2020}
 
 @article{Feuchtgruber00,
 author = {H. Feuchtgruber and F. P. Helmich and E. F. {{v}an {D}ishoeck} and C. M. Wright},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Detection of Interstellar {CH$_3$}},
 volume = {535},
 pages = {L111-L114},
@@ -2606,7 +2606,7 @@ year = {2000}
 
 @article{Neufeld12,
 author = {D. A. Neufeld and E. Falgarone and M. Gerin and B. Godard and E. Herbst and G. {{P}ineau {d}es {F}or\^{e}ts} and A. I. Vasyunin and R. G\"{u}sten and H. Wiesemeyer and O. Ricken},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Discovery of interstellar mercapto radicals {(SH)} with the {GREAT} instrument on {SOFIA}},
 volume = {542},
 pages = {L6},
@@ -2615,7 +2615,7 @@ year = {2012}
 
 @article{Snyder72,
 author = {Lewis E. Snyder and David Buhl},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Interstellar Isocyanic Acid},
 volume = {177},
 pages = {619},
@@ -2624,7 +2624,7 @@ year = {1972}
 
 @article{Frerking79,
 author = {M. A. Frerking and R. A. Linke and P. Thaddeus},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Interstellar isothiocyanic acid},
 volume = {234},
 pages = {L143},
@@ -2633,7 +2633,7 @@ year = {1979}
 
 @article{Snyder76,
 author = {L. E. Snyder and J. M. Hollis and B. L. Ulich},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Radio detection of the interstellar formyl radical},
 volume = {208},
 pages = {L91},
@@ -2642,7 +2642,7 @@ year = {1976}
 
 @article{Agundez18,
 author = {M. Ag\'{u}ndez and N. Marcelino and J. Cernicharo and M. Tafalla},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Detection of interstellar {HCS} and its metastable isomer {HSC}: new pieces in the puzzle of sulfur chemistry},
 volume = {611},
 pages = {L1},
@@ -2651,7 +2651,7 @@ year = {2018}
 
 @article{Patterson12,
 author = {David M. Patterson and Lidia A. Nazarova and Bryan Xie and David N. Kamber and Jennifer A. Prescher},
-journal = {J. Am. Chem. Soc.},
+journal = {Journal of the American Chemical Society},
 title = {Functionalized Cyclopropenes As Bioorthogonal Chemical Reporters},
 volume = {134},
 pages = {18638-18643},
@@ -2660,7 +2660,7 @@ year = {2012}
 
 @article{Staley84,
 author = {Stuart W. Staley and Timothy D. Norden},
-journal = {J. Am. Chem. Soc.},
+journal = {Journal of the American Chemical Society},
 title = {Synthesis and direct observation of methylenecyclopropene},
 volume = {106},
 pages = {3699-3700},
@@ -2687,7 +2687,7 @@ year = {2019}
 
 @article{Gerin11,
 author = {M. Gerin and M. Ka\'{z}mierczak and M. Jastrzebska and E. Falgarone and P. {Hily-{B}lant} and B. Godard and M. {De {L}uca}},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {The tight correlation of {CCH} and {c-C$_3$H$_2$} in diffuse and translucent clouds},
 volume = {525},
 pages = {A116},
@@ -2696,7 +2696,7 @@ year = {2011}
 
 @article{Chin98,
 author = {{Y.-N.} Chin and C. Henkel and T. J. Millar and J. B. Whiteoak and M. {Marx-{Z}immer}},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Molecular abundances in the {M}agellanic {C}louds. {III}. {LIRS}36, a star-forming region in the {S}mall {M}agellanic {C}loud},
 volume = {330},
 pages = {901-909},
@@ -2714,7 +2714,7 @@ year = {2018}
 
 @article{Lee09,
 author = {Timothy J. Lee and Peter R. Taylor},
-journal = {Int. J. Quantum Chem.},
+journal = {International Journal of Quantum Chemistry},
 title = {A diagnostic for determining the quality of single-reference electron correlation methods},
 volume = {36},
 pages = {199-207},
@@ -2723,7 +2723,7 @@ year = {2009}
 
 @article{Maluendes93,
 author = {Sergio A. Maluendes and A. D. Mc{L}ean and Eric Herbst},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {CALCULATIONS CONCERNING INTERSTELLAR ISOMERIC ABUNDANCE RATIOS FOR {C$_3$H} AND {C$_3$H$_2$}},
 volume = {417},
 pages = {181-186},
@@ -2732,7 +2732,7 @@ year = {1993}
 
 @article{Cernicharo16,
 author = {J. Cernicharo and Z. Kisiel and B. Tercero and L. Kolesnikov\'{a} and I. R. Medvedev and A. L\'{o}pez and S. Fortman and M. Winnewisser and F. C. {{de} {L}ucia} and J. L. Alonso and {J.-C.} Guillemin},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {A rigorous detection of interstellar {CH$_3$NCO}: {A}n important missing species in astrochemical networks},
 volume = {587},
 pages = {L4},
@@ -2741,7 +2741,7 @@ year = {2016}
 
 @article{Marcelino09,
 author = {N\'{u}ria Marcelino and Jos\'{e} Cernicharo and Bel\'{e}n Tercero and Evelyne Roueff},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {DISCOVERY OF FULMINIC ACID, {HNCO}, IN DARK CLOUDS},
 volume = {690},
 pages = {L27-L30},
@@ -2751,7 +2751,7 @@ year = {2009}
 @article{Marcelino18,
 author = {N. Marcelino and M. Ag\'{u}ndez and J. Cernicharo and E. Roueff and M. Tafalla},
 title = {Discovery of the elusive radical {NCO} and confirmation of {H$_2$NCO$^+$} in space},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 volume = {612},
 pages = {L10},
 year = {2018}
@@ -2759,7 +2759,7 @@ year = {2018}
 
 @article{RodriguezAlmeida21,
 author = {L. F. {Rodr\'{i}guez-{A}lmeida} and V. M. Rivilla and I. {Jim\'{e}nez-{S}erra} and M. Melosso and L. Colzi and S. Zeng and B. Tercero and P. {de {V}icente} and S. Mart\'{i}n and M. A. {Requena-{T}orres} and F. {Rico-{V}illas} and J. {Mart\'{i}n-{P}intado}},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {First detection of {C$_2$H$_5$NCO} in the {ISM} and search of other isocyanates towards the {G$+$}0.693-0.027 molecular cloud},
 volume = {654},
 pages = {L1},
@@ -2768,7 +2768,7 @@ year = {2021}
 
 @article{Halfen15,
 author = {D. T. Halfen and V. V. Ilyushin and L. M. Ziurys},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {INTERSTELLAR DETECTION OF METHYL ISOCYANATE {CH$_3$NCO} IN {Sgr B(2)N}: {A} LINK FROM MOLECULAR CLOUDS TO COMETS},
 volume = {812},
 pages = {L5},
@@ -2777,7 +2777,7 @@ year = {2015}
 
 @article{Snyder72,
 author = {Lewis E. Snyder and David Buhl},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Interstellar Isocyanic Acid},
 volume = {177},
 pages = {619},
@@ -2786,7 +2786,7 @@ year = {1972}
 
 @article{Walters17,
 author = {Nicholas A. Walters and Brent K. Amberger and Brian J. Esselman and Claude R. Woods and Robert J. Mc{M}ahon},
-journal = {J. Mol. Spectrosc.},
+journal = {Journal of Molecular Spectroscopy},
 title = {Millimeter-wave spectroscopy of syn formyl azide {(HC(O)N$_3$)} in seven vibrational states},
 volume = {331},
 pages = {71-81},
@@ -2795,7 +2795,7 @@ year = {2017}
 
 @article{Huang16,
 author = {Xiongyi Huang and John T. Groves},
-journal = {ACS Catal.},
+journal = {ACS Catalysis},
 title = {Taming Azide Radicals for Catalytic {C-H} Azidation},
 volume = {6},
 pages = {751-759},
@@ -2804,7 +2804,7 @@ year = {2016}
 
 @article{Marcelino10,
 author = {N. Marcelino and S. Br\"{u}nken and J. Cernicharo and D. Quan and E. Roueff and E. Herbst and P. Thaddeus},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {The puzzling behavior of {HNCO} isomers in molecular clouds},
 volume = {516},
 pages = {A105},
@@ -2813,7 +2813,7 @@ year = {2010}
 
 @article{Hebrard13,
 author = {E. H\'{e}brard and M. Dobrijevic and J. C. Loison and A. Bergeat and K. M. Hickson and F. Caralp},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Photochemistry of {C$_3$H$_p$} hydrocarbons in {T}itan's stratosphere revisited},
 volume = {552},
 pages = {A132},
@@ -2822,7 +2822,7 @@ year = {2013}
 
 @article{Zhao15,
 author = {D. Zhao and G. A. Galazutdinov and H. Linnartz and J. Kre\l{}owski},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Mercapto radical {(SH)} in translucent interstellar clouds},
 volume = {579},
 pages = {L1},
@@ -2831,7 +2831,7 @@ year = {2015}
 
 @article{Knez09,
 author = {Claudia Knez and John H. Lacy and Neal J. {Evans II} and Ewine F. {{van} {D}ishoeck} and Matthew J. Richter},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {HIGH-RESOLUTION MID-INFRARED SPECTROSCOPY OF {NGC 7538 IRS 1:} PROBING CHEMISTRY IN A MASSIVE YOUNG STELLAR OBJECT},
 volume = {696},
 pages = {471},
@@ -2840,7 +2840,7 @@ year = {2009}
 
 @article{Billups97,
 author = {W. E. Billups and Christoph Gesenberg and Roger Cole},
-journal = {Tetrahedron Lett.},
+journal = {Tetrahedron Letters},
 title = {A New Methylenecyclopropene Synthesis and the Isolation of a Novel Methylenecyclopropene Dimer},
 volume = {38},
 pages = {1115-1116},
@@ -2849,21 +2849,21 @@ year = {1997}
 
 @article{Bouwman23,
 author = {Jordy Bouwman and Morgan N. Mc{C}abe and Christopher N. Shingledecker and Joseph Wandishin and Virginia Jarvis and Engelbert Reusch and Patrick Hemberger and Andras Bodi},
-journal = {Nat. Astron.},
+journal = {Nature Astronomy},
 title = {Five-membered ring compounds from the \textit{ortho}-benzyne+methyl radical reaction under interstellar conditions},
 year = {2023}
 }
 
 @article{Flint23a,
 author = {Athena R. Flint and Alexandria G. Watrous and Brent R. Westbrook and Dev J. Patel and Ryan C. Fortenberry},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Gas-phase formation and spectroscopic characterization of the disubstituted cyclopropenylidenes {\textit{c}-C$_3$(C$_2$H)$_2$, \textit{c}-C$_3$(CN)$_2$,} and {\textit{c}-C$_3$(C$_2$H)(CN)}},
 year = {2023}
 }
 
 @article{Cernicharo21c,
 author = {J. Cernicharo and C. Cabezas and M. Ag\'{u}ndez and B. Tercero and J. R. Pardo and N. Marcelino and J. D. Gallego and F. Tercero and J. A. {L\'{o}pez-{P}\'{e}rez} and P. {{de} {V}icente}},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {{TMC-1}, the starless core sulfur factory: {D}iscovery of {NCS, HCCS, H$_2$CCS, H$_2$CCCS,} and {C$_4$S} and detection of {C$_5$S}},
 volume = {648},
 pages = {L3},
@@ -2872,7 +2872,7 @@ year = {2021}
 
 @article{Cernicharo21e,
 author = {J. Cernicharo and C. Cabezas and Y. Endo and M. Ag\'{u}ndez and B. Tercero and J. R. Pardo and N. Marcelino and P. {{de} {V}icente}},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {The sulphur saga in {TMC-1}: {D}iscovery of {HCSCN} and {HCSCCH}},
 volume = {650},
 pages = {L15},
@@ -2881,7 +2881,7 @@ year = {2021}
 
 @article{Tremblay17,
 author = {Chenoa D. Tremblay and Natasha {Hurley-{W}alker} and Maria Cunningham and Paul A. Jones and Paul J. Hancock and Randall Wayth and Christopher H. Jordan},
-journal = {Mon. Not. R. Astron. Soc.},
+journal = {Monthly Notices of the Royal Astronomical Society},
 title = {A first look for molecules between 103 and 133 {MHz} using the {M}urchison {W}idefield {A}rray},
 volume = {471},
 pages = {4144–4154},
@@ -2890,7 +2890,7 @@ year = {2017}
 
 @article{Yamamura00,
 author = {I. Yamamura and K. Kawaguchi and S. T. Ridgway},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {IDENTIFICATION OF {SH} $\Delta\nu$ = 1 RO-VIBRATIONAL LINES IN {R} {A}NDROMEDAE},
 volume = {528},
 pages = {L33-L36},
@@ -2899,7 +2899,7 @@ year = {2000}
 
 @article{Jacob22,
 author = {A. M. Jacob and D. A. Neufeld and P. Schilke and H. Wiesemeyer and {W.-{J}.} Kim and S. Bialy and M. Busch and D. Elia and E. Falgarone and M. Gerin and B. Godard and R. Higgins and P. Hennebelle and N. Indriolo and D. C. Lis and K. M. Menten and A. {Sanchez-{M}onge} and T. M\"{o}ller and V. {Ossenkopf-{O}kada} and M. R. Rugel and D. Seifried and P. Sonnentrucker and S. Walch and M. G. Wolfire and F. Wyrowski and V. Valdivia},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {{HyGAL}: Characterizing the Galactic Interstellar Medium with Observations of Hydrides
 and Other Small Molecules. {I}. {S}urvey Description and a First Look Toward {W3(OH)},
 {W3 IRS5}, and {NGC 7538 IRS1}},
@@ -2910,7 +2910,7 @@ year = {2022}
 
 @article{Neufeld15,
 author = {D. A. Neufeld and B. Godard and M. Gerin and G. {Pineau {des} {F}or\^{e}ts} and C. Bernier and E. Falgarone and U. U. Graf and R. G\"{u}sten and E. Herbst and P. Lesaffre and P. Schilke and P. Sonnentrucker and H. Wiesemeyer},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 volume = {577},
 title = {Sulphur-bearing molecules in diffuse molecular clouds: new results from {SOFIA/GREAT} and the {IRAM} 30 m telescope},
 pages = {A49},
@@ -2919,7 +2919,7 @@ year = {2015}
 
 @article{Goicoechea04,
 author = {Javier R. Goicoechea and Nemesio J. {Rodr\'{i}guez-{F}ern\'{a}ndez} and Jos\'{e} Cernicharo},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {THE FAR-INFRARED SPECTRUM OF THE {S}AGITTARIUS {B2} REGION: {E}XTENDED MOLECULAR
 ABSORPTION, PHOTODISSOCIATION, AND PHOTOIONIZATION},
 volume = {600},
@@ -2929,7 +2929,7 @@ year = {2004}
 
 @article{Comito05,
 author = {C. Comito and P. Schilke and T. G. Phillips and D. C. Lis and F. Motte and D. Mehringer},
-journal = {Astrophys. J. Suppl. Ser.},
+journal = {Astrophysical Journal Supplement Series},
 title = {A MOLECULAR LINE SURVEY OF {O}RION {KL} IN THE 350 MICRON BAND},
 volume = {156},
 pages = {127-167},
@@ -2938,7 +2938,7 @@ year = {2005}
 
 @article{Blant10,
 author = {P. {Hily-{B}lant} and S. Maret and A. Bacmann and S. Bottinelli and B. Parise and E. Caux and A. Faure and E. A. Bergin and G. A. Blake and A. Castets and C. Ceccarelli and J. Cernicharo and A. Coutens and N. Crimier and K. Demyk and C. Dominik and M. Gerin and P. Hennebelle and T. Henning and C. Kahane and A. Klotz and G. Melnick and L. Pagani and P. Schilke and C. Vastel and V. Wakelam and A. Walters and A. Baudry and T. Bell and M. Benedettini and A. Boogert and S. Cabrit and P. Caselli and C. Codella and C. Comito and P. Enecrenaz and E. Falgarone and A. Fuente and P. F. Goldsmith and F. Helmich and E. Herbst and T. Jacq and M. Kama and W. Langer and B. Lefloch and D. Lis and S. Lord and A. Lorenzani and D. Neufeld and B. Nisini and S. Pacheco and T. Phillips and M. Salez and P. Saraceno and K. Schuster and X. Tielens and F. {{van} {der} {T}ak} and M. H. D. {{van} {der} {W}iel} and S. Viti and F. Wyrowski and H. Yorke},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Nitrogen hydrides in the cold envelope of {IRAS} 16293-2422},
 volume = {521},
 pages = {L52},
@@ -2947,7 +2947,7 @@ year = {2010}
 
 @article{Persson12,
 author = {C. M. Persson and M. {{de} {L}uca} and B. Mookerjea and A. O. H. Olofsson and J. H. Black and M. Gerin and E. Herbst and T. A. Bell and A. Coutens and B. Godard and J. R. Goicoechea and G. E. Hassel and P. {Hily-{B}lant} and K. M. Menten and H. S. P. M\"{u}ller and J. C. Pearson and S. Yu},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Nitrogen hydrides in interstellar gas {II}. {A}nalysis of \textit{{H}erschel}$\star$/{HIFI} observations towards {W49N} and {G10.6−0.4 (W31C)}$\star\star$},
 volume = {543},
 pages = {A145},
@@ -2956,7 +2956,7 @@ year = {2012}
 
 @article{Persson16,
 author = {C. M. Persson and A. O. H. Olofsson and R. {Le {G}al} and E. S. Wirstr\"{o}m and G. E. Hassel and E. Herbst and M. Olberg and A. Faure and P. {Hily-{B}lant} and J. H. Black and M. Gerin and D. Lis and F. Wyrowski},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Ortho-to-para ratio of {NH$_2$} - \textit{{H}erschel}-{HIFI} observations of ortho- and para-{NH$_2$} rotational transitions towards {W31C}, {W49N}, {W51}, and {G34.3+0.1}$^{\star}$},
 volume = {586},
 pages = {A128},
@@ -2965,7 +2965,7 @@ year = {2016}
 
 @article{Berta21,
 author = {S. Berta and A. J. Young and P. Cox and R. Neri and B. M. Jones and A. J. Baker and A. Omont and L. Dunne and A. {Carnero {R}osell} and L. Marchetti and M. Negrello and C. Yang and D. A. Riechers and H. Dannerbauer and I. {Perez-{F}ournon} and P. {{van} {der} {W}erf} and T. Bakx and R. J. Ivison and A. Beelen and V. Buat and A. Cooray and I. Cortzen and S. Dye and S. Eales and R. Gavazzi and A. I. Harris and C. N. Herrera and D. Hughes and S. Jin and M. Krips and G. Lagache and M. Lehnert and H. Messias and S. Serjeant and F. Stanley and S. Urquhart and C. Vlahakis and A. Wei{\ss}},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Close-up view of a luminous star-forming galaxy at {z} = 2.95$^\star$},
 volume = {646},
 pages = {A122},
@@ -2974,7 +2974,7 @@ year = {2021}
 
 @article{Fukui81,
 author = {Kenichi Fukui},
-journal = {Acc. Chem. Res.},
+journal = {Accounts of Chemical Research},
 title = {The path of chemical reactions - the {IRC} approach},
 volume = {14},
 pages = {363-368},
@@ -2983,7 +2983,7 @@ year = {1981}
 
 @article{Chuntonov14,
 author = {Lev Chuntonov and Revati Kumar and Daniel G. Kumoda},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {Non-linear infrared spectroscopy of the water bending mode: direct experimental evidence of hydration shell reorganization?},
 volume = {16},
 pages = {13172-13181},
@@ -2992,7 +2992,7 @@ year = {2014}
 
 @article{Seki20b,
 author = {Takakazu Seki and {Kuo-{Y}ang} Chiang and {Chun-{C}hieh} Yu and Xiaoqing Yu and Masanari Okuno and Johannes Hunger and Yuki Nagata and Mischa Bonn},
-journal = {J. Phys. Chem. Lett.},
+journal = {Journal of Physical Chemistry Letters},
 title = {The Bending Mode of Water: {A} Powerful Probe for Hydrogen Bond Structure of Aqueous Systems},
 volume = {11},
 pages = {8459-8469},
@@ -3001,7 +3001,7 @@ year = {2020}
 
 @article{Gould63,
 author = {Robert J. Gould and Edwin E. Salpeter},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {The Interstellar Abundance of the Hydrogen Molecule. {I}. {B}asic Processes.},
 volume = {138},
 pages = {393},
@@ -3010,7 +3010,7 @@ year = {1963}
 
 @article{Hollenbach71,
 author = {David Hollenbach and E. E. Salpeter},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Surface Recombination of Hydrogen Molecules},
 volume = {163},
 pages = {155},
@@ -3019,7 +3019,7 @@ year = {1971}
 
 @article{Watson72,
 author = {W. D. Watson and E. E. Salpeter},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {On the Abundances of Interstellar Molecules},
 volume = {175},
 pages = {659},
@@ -3028,7 +3028,7 @@ year = {1972}
 
 @article{Katz99,
 author = {N. Katz and I. Furman and O. Biham and V. Pirronello and G. Vidali},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Molecular Hydrogen Formation on Astrophysically Relevant Surfaces},
 volume = {522},
 pages = {305-312},
@@ -3037,7 +3037,7 @@ year = {1999}
 
 @article{Bouwman01,
 author = {J. Bouwman and G. Meeus and A. {de K}oter and S. Hony and C. Dominik and L. B. F. M. Waters},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Processing of silicate dust grains in {H}erbig {Ae/Be} systems},
 volume = {375},
 pages = {950-962},
@@ -3046,7 +3046,7 @@ year = {2001}
 
 @article{Li02,
 author = {Aigen Li and B. T. Draine},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Are Silicon Nanoparticles an Interstellar Dust Component?},
 volume = {564},
 pages = {803-812},
@@ -3055,7 +3055,7 @@ year = {2002}
 
 @article{Watanabe02,
 author = {Naoki Watanabe and Akira Kouchi},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Efficient Formation of Formaldehyde and Methanol by the Addition of Hydrogen Atoms to {CO} in {H$_2$O-CO} Ice at 10 {K}},
 volume = {571},
 pages = {L173-L176},
@@ -3064,7 +3064,7 @@ year = {2002}
 
 @article{Hidaka04,
 author = {H. Hidaka and N. Watanabe and T. Shiraki and A. Nagaoka and A. Kouchi},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Conversion of {H$_2$CO} to {CH$_3$OH} by Reactions of Cold Atomic Hydrogen on Ice Surfaces below 20 {K}},
 volume = {614},
 pages = {1124-1131},
@@ -3073,7 +3073,7 @@ year = {2004}
 
 @article{Boekel05,
 author = {R. {van B}oekel and M. Min and L. B. F. M. Waters and A. {de K}oter and C. Dominik and M. E. {van den A}ncker and J. Bouwman},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {A 10 $\mu$m spectroscopic survey of {H}erbig {Ae} star disks: {G}rain growth and crystallization},
 volume = {437},
 pages = {189-208},
@@ -3082,7 +3082,7 @@ year = {2005}
 
 @article{Garrod07,
 author = {R. T. Garrod and V. Wakelam and E. Herbst},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Non-thermal desorption from interstellar dust grains via exothermic surface reactions},
 volume = {467},
 pages = {1103-1115},
@@ -3091,7 +3091,7 @@ year = {2007}
 
 @article{Aikawa08,
 author = {Yuri Aikawa and Valentine Wakelam and Robin T. Garrod and Eric Herbst},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Molecular Evolution and Star Formation: {F}rom Prestellar Cores to Protostellar Cores},
 volume = {674},
 pages = {984-996},
@@ -3100,7 +3100,7 @@ year = {2008}
 
 @article{Oberg08,
 author = {Karin I. \"{O}berg and A. C. Adwin Boogert and Klaus M. Pontoppidan and Geoffrey A. Blake and Neal J. Evans and Fred Lahuis and Ewine F. {van D}ishoeck},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {The {c2d} \textit{Spitzer} Spectroscopic Survey of Ices around Low-Mass Young Stellar Objects. {III}. {CH$_4$}},
 volume = {678},
 pages = {1032-1041},
@@ -3109,7 +3109,7 @@ year = {2008}
 
 @article{Gail09,
 author = {H.-P. Gail and S. V. Zhukovska and P. Hoppe and M. Trieloff},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {STARDUST FROM ASYMPTOTIC GIANT BRANCH STARS},
 volume = {698},
 pages = {1136-1154},
@@ -3118,7 +3118,7 @@ year = {2009}
 
 @article{Sargent09,
 author = {B. A. Sargent and W. J. Forrest and C. Tayrien and M. K. Mc{C}lure and A. Li and A. R. Basu and P. Manoj and D. M. Watson and C. J. Bohac and E. Furlan and K. H. Kim and J. D. Green and G. C. Sloan},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Silica in Protoplanetary Disks},
 volume = {690},
 pages = {1193-1207},
@@ -3127,7 +3127,7 @@ year = {2009}
 
 @article{Henning10,
 author = {Thomas Henning},
-journal = {Annu. Rev. Astron. Astrophys.},
+journal = {Annual Review of Astronomy and Astrophysics},
 title = {Cosmic Silicates},
 volume = {48},
 pages = {21-46},
@@ -3136,7 +3136,7 @@ year = {2010}
 
 @article{Juhasz10,
 author = {A. Juh\"{a}sz and J. Bouwman and Th. Henning and B. Acke and M. E. {van den A}ncker and G. Meeus and C. Dominick and M. Min and A. G. G. M. Tielens and L. B. F. M. Waters},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Dust evolution in protoplanetary disks around {H}erbig {Ae/Be} stars - the \textit{Spitzer} view},
 volume = {721},
 pages = {431-455},
@@ -3154,7 +3154,7 @@ year = {2011}
 
 @article{Kaneko15,
 author = {Shohei Kaneko and Masaaki Miyahara and Eiji Ohtani and Tomoko Arai and Naohisa Hirao and Kazuhisa Sato},
-journal = {Am. Mineral.},
+journal = {American Mineralogist},
 title = {Discovery of stishovite in {A}pollo 15299 sample},
 volume = {100},
 pages = {1308-1311},
@@ -3163,7 +3163,7 @@ year = {2015}
 
 @article{Seddio15,
 author = {Stephen M. Seddio and Randy L. Korotev and Bradley L. Jolliff and Alian Wang},
-journal = {Am. Mineral.},
+journal = {American Mineralogist},
 title = {Silica polymorphs in lunar granite: {I}mplications for granite petrogenesis on the {M}oon},
 volume = {100},
 pages = {1533-1543},
@@ -3172,7 +3172,7 @@ year = {2015}
 
 @article{Cuppen17,
 author = {H. M. Cuppen and C. Walsh and T. Lamberts and D. Semenov and R. T. Garrod and E. M. Penteado and S. Ioppolo},
-journal = {Space Sci. Rev.},
+journal = {Space Science Reviews},
 title = {Grain Surface Models and Data for Astrochemistry},
 volume = {212},
 pages = {1-58},
@@ -3181,7 +3181,7 @@ year = {2017}
 
 @article{Jones18,
 author = {Brant M. Jones and Alex Aleksandrov and K. Hibbitts and M. D. Dyar and Thomas M. Orlando},
-journal = {Geophys. Res. Lett.},
+journal = {Geophysical Research Letters},
 title = {Solar Wind‐Induced Water Cycle on the Moon},
 volume = {45},
 pages = {10959-10967},
@@ -3190,7 +3190,7 @@ year = {2018}
 
 @article{Honniball20,
 author = {C. I. Honniball and P. G. Lucey and S. Li and S. Shenoy and T. M. Orlando},
-journal = {Nat. Astron.},
+journal = {Nature Astronomy},
 title = {Molecular water detected on the sunlit {M}oon by {SOFIA}},
 volume = {5},
 pages = {121-127},
@@ -3199,7 +3199,7 @@ year = {2020}
 
 @article{Qasim20,
 author = {D. Qasim and G. Fedoseev and K.-J. Chuang and J. He and S. Ioppolo and E. F. {van D}ishoeck and H. Linnartz},
-journal = {Nat. Astron.},
+journal = {Nature Astronomy},
 title = {An experimental study of the surface formation of methane in interstellar molecular clouds},
 volume = {4},
 pages = {781-785},
@@ -3208,7 +3208,7 @@ year = {2020}
 
 @article{Zeng20,
 author = {Xiaojia Zeng and Katherine H. Joy and Shijie Li and Yangting Lin and Nian Wang and Xiongyao Li and Yang Li and Jialong Hao and Jianzhong Liu and Shijie Wang},
-journal = {Geophys. Res. Lett.},
+journal = {Geophysical Research Letters},
 title = {Oldest Immiscible Silica‐rich Melt on the Moon Recorded in a ~4.38 {Ga} Zircon},
 volume = {47},
 year = {2020}
@@ -3225,7 +3225,7 @@ year = {2021}
 
 @article{Pang22,
 author = {Runlian Pang and Jing Yang and Wei Du and Aicheng Zhang and Shirong Liu and Rui Li},
-journal = {Geophys. Res. Lett.},
+journal = {Geophysical Research Letters},
 title = {New Occurrence of Seifertite and Stishovite in {Chang’e‐5} Regolith},
 volume = {49},
 year = {2022}
@@ -3233,7 +3233,7 @@ year = {2022}
 
 @article{Schoenfeld23,
 author = {Ashley M. Schoenfeld and Emily K. Hawkins and Krista M. Soderlund and Steven D. Vance and Erin Leonard and An Yin},
-journal = {Commun. Earth Environ.},
+journal = {Communications Earth and Environment},
 title = {Particle entrainment and rotating convection in {E}nceladus’ ocean},
 volume = {4},
 pages = {28},
@@ -3242,7 +3242,7 @@ year = {2023}
 
 @article{Wilson71,
 author = {R. W. Wilson and A. A. Penzias and K. B. Jefferts and M. Kutner and P. Thaddeus},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Discovery of Interstellar Silicon Monoxide},
 volume = {167},
 pages = {L97},
@@ -3251,7 +3251,7 @@ year = {1971}
 
 @article{Dickinson72,
 author = {Dale F. Dickinson},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Detection of Silicon Monoxide at 87 {GHz}},
 volume = {175},
 pages = {L43},
@@ -3269,7 +3269,7 @@ year = {2011}
 
 @article{Lindackers97,
 author = {D. Lindackers and M. G. D. Strecker and P. Roth and C. Janzen and S. E. Pratsinis},
-journal = {Combust. Sci. Technol.},
+journal = {Combustion Science and Technology},
 title = {Formation and Growth of {SiO$_2$} Particles in Low Pressure {H$_2$/O$_2$/Ar} Flames Doped with {SiH$_4$}},
 volume = {123},
 pages = {287-315},
@@ -3278,7 +3278,7 @@ year = {1997}
 
 @article{Wooldridge98,
 author = {Margaret S. Wooldridge},
-journal = {Prog. Energy Combust. Sci.},
+journal = {Progress in Energy and Combustion Science},
 title = {Gas-phase combustion synthesis of particles},
 volume = {24},
 pages = {63-87},
@@ -3287,7 +3287,7 @@ year = {1998}
 
 @article{Naess14,
 author = {Mari K. N{\ae}ss and Jan Erik Olsen and Stefan Andersson and Gabriella Tranell},
-journal = {Oxid. Met.},
+journal = {Oxidation of Metals},
 title = {Parameters Affecting the Rate and Product of Liquid Silicon Oxidation},
 volume = {82},
 pages = {395-413},
@@ -3296,7 +3296,7 @@ year = {2014}
 
 @article{Nisini07,
 author = {B. Nisini and C. Codella and T. Giannini and J. {Santiago Garcia} and J. S. Richer and R. Bachiller and M. Tafalla},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Warm {SiO} gas in molecular bullets associated with protostellaroutflows},
 volume = {462},
 pages = {163-172},
@@ -3305,7 +3305,7 @@ year = {2007}
 
 @article{Guillet09,
 author = {V. Guillet and A. P. Jones and G. {Pineau des For\^{e}ts}},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Shocks in dense clouds. {II}. {D}ust destruction and {SiO} formation in {J} shocks},
 volume = {497},
 pages = {145-153},
@@ -3314,7 +3314,7 @@ year = {2009}
 
 @article{Gusdorf08a,
 author = {A. Gusdorf and S. Cabrit and D. R. Flower and G. {Pineau des For\^{e}ts}},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {{SiO} line emission from {C}-type shock waves: interstellar jets and outflows},
 volume = {482},
 pages = {809-829},
@@ -3323,7 +3323,7 @@ year = {2008}
 
 @article{Gusdorf08b,
 author = {A. Gusdorf and G. {Pineau des For\^{e}ts} and S. Cabrit and D. R. Flower},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {{SiO} line emission from interstellar jets and outflows: silicon-containing mantles and non-stationary shock waves},
 volume = {490},
 pages = {695-706},
@@ -3332,7 +3332,7 @@ year = {2008}
 
 @article{Schilke97,
 author = {P. Schilke and C. M. Walmsley and G. {Pineau des For\^{e}ts} and D. R. Flower},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {{SiO} production in interstellar shocks},
 volume = {321},
 pages = {293-304},
@@ -3341,7 +3341,7 @@ year = {1997}
 
 @article{Usero06,
 author = {A. Usero and S. {Garc\'{i}a-Burillo} and J. {Mart\'{i}n-Pintado} and A. Fuente and R. Neri},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Large-scale molecular shocks in galaxies: the {SiO} interferometer map of {IC} 342},
 volume = {448},
 pages = {457-470},
@@ -3350,7 +3350,7 @@ year = {2006}
 
 @article{Cosentino20,
 author = {G. Cosentino and I. {Jim\'{e}nez-Serra} and J. D. Henshaw and P. Caselli and S. Viti and A. T. Barnes and J. C. Tan and F. Fontani and B. Wu},
-journal = {Mon. Not. R. Astron. Soc.},
+journal = {Monthly Notices of the Royal Astronomical Society},
 title = {{SiO} emission as a probe of cloud–cloud collisions in infrared dark clouds},
 volume = {499},
 pages = {1666-1681},
@@ -3359,7 +3359,7 @@ year = {2020}
 
 @article{ArmijosAbendano20,
 author = {J. {Armijos-Abenda\~{n}o} and W. E. {Banda-Barrag\'{a}n} and J. {Mart\'{i}n-Pintado} and H. D\'{e}nes and C. Federrath and M. A. {Requena-Torres}},
-journal = {Mon. Not. R. Astron. Soc.},
+journal = {Monthly Notices of the Royal Astronomical Society},
 title = {Structure and kinematics of shocked gas in {Sgr B2}: further evidence of a cloud–cloud collision from {SiO} emission maps},
 volume = {499},
 pages = {4918-4939},
@@ -3368,7 +3368,7 @@ year = {2020}
 
 @article{He22b,
 author = {Chao He and Yuheng Luo and Srinivas Doddipatla and Zhenghai Yang and Tom J. Millar and Rui Sun and Ralf I. Kaiser},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {Gas-phase formation of silicon monoxide \textit{via} non-adiabatic reaction dynamics and its role as a building block of interstellar silicates},
 volume = {24},
 pages = {19761-19772},
@@ -3377,7 +3377,7 @@ year = {2022}
 
 @article{Picard01,
 author = {S. D. {Le Picard} and A. Canosa and G. {Pineau des For\^{e}ts} and C. {Rebrion-Rowe} and B. R. Rowe},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {The {Si($_3$P$_J$) + O$_2$} reaction: {A} fast source of {SiO} at very low temperature; {CRESU} measurements and interstellar consequences},
 volume = {372},
 pages = {1064-1070},
@@ -3386,7 +3386,7 @@ year = {2001}
 
 @article{Picard02,
 author = {S. D. {Le Picard} and A. Canosa and D. Reignier and T. Stoecklin},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {A comparative study of the reactivity of the silicon atom {Si($_3$P$_J$)} towards {O$_2$} and {NO} molecules at very low temperature},
 volume = {4},
 pages = {3659-3664},
@@ -3395,7 +3395,7 @@ year = {2002}
 
 @article{Andersson23,
 author = {Stefan Andersson and David Gobrecht and Rosendo Valero},
-journal = {Front. Astron. Space Sci.},
+journal = {Frontiers in Astronomy and Space Sciences},
 title = {Mechanisms of {SiO} oxidation: {I}mplications for dust formation},
 volume = {10},
 pages = {1135156},
@@ -3404,7 +3404,7 @@ year = {2023}
 
 @article{Hartquist80,
 author = {T. W. Hartquist and M. Oppenheimer and A. Dalgarno},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Molecular diagnostics of interstellar shocks},
 volume = {236},
 pages = {182-188},
@@ -3413,7 +3413,7 @@ year = {1980}
 
 @article{Clegg83,
 author = {R. E. S. Clegg and L. J. {van Ijzendoorn} and L. J. Allamandola},
-journal = {Mon. Not. R. Astron. Soc.},
+journal = {Monthly Notices of the Royal Astronomical Society},
 title = {Circumstellar silicon chemistry and the {SiO} maser},
 volume = {203},
 pages = {125-146},
@@ -3422,7 +3422,7 @@ year = {1983}
 
 @article{McCarthy16,
 author = {Michael C. Mc{C}arthy and J\"{u}rgen Gauss},
-journal = {J. Phys. Chem. Lett.},
+journal = {Journal of Physical Chemistry Letters},
 title = {Exotic {SiO$_2$H$_2$} Isomers: {T}heory and Experiment Working in Harmony},
 volume = {7},
 pages = {1895-1900},
@@ -3431,7 +3431,7 @@ year = {2016}
 
 @article{Reber06,
 author = {Arthur C. Reber and Penee A. Clayborne and J. Ulises Reveles and Shiv N. Khanna and A. W. Castleman and Ashraf Ali},
-journal = {Nano Lett.},
+journal = {Nano Letters},
 title = {Silicon Oxide Nanoparticles Reveal the Origin of Silicate Grains in Circumstellar Environments},
 volume = {6},
 pages = {1190-1195},
@@ -3440,7 +3440,7 @@ year = {2006}
 
 @article{Zachariah95,
 author = {Michael R. Zachariah and Wing Tsang},
-journal = {J. Phys. Chem.},
+journal = {Journal of Physical Chemistry},
 title = {Theoretical Calculation of Thermochemistry, Energetics, and Kinetics of High-Temperature {Si$_x$H$_y$O$_Z$} Reactions},
 volume = {99},
 pages = {5308-5318},
@@ -3449,7 +3449,7 @@ year = {1995}
 
 @article{Bromley16,
 author = {Stefan T. Bromley and Juan Carlos {G\'{o}mez Mart\'{i}n} and John M. C. Plane},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {Under what conditions does {(SiO)$_N$} nucleation occur? {A} bottom-up kinetic modelling evaluation},
 volume = {18},
 pages = {26913-26922},
@@ -3458,7 +3458,7 @@ year = {2016}
 
 @article{Goumans12,
 author = {T. P. M. Goumans and Stefan T. Bromley},
-journal = {Mon. Not. R. Astron. Soc.},
+journal = {Monthly Notices of the Royal Astronomical Society},
 title = {Efficient nucleation of stardust silicates via heteromolecular homogeneous condensation},
 volume = {420},
 pages = {3344-3349},
@@ -3475,7 +3475,7 @@ year = {2013}
 
 @article{Krasnokutski14,
 author = {S. A. Krasnokutski and G. Rouill\'{e} and C. J\"{a}ger and F. Huisken and S. Zhukovska and Th. Henning},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {FORMATION OF SILICON OXIDE GRAINS AT LOW TEMPERATURE},
 volume = {782},
 pages = {15},
@@ -3493,7 +3493,7 @@ year = {2008}
 
 @article{GomezMartin09,
 author = {Juan C. {G\'{o}mez Mart\'{i}n} and Mark A. Blitz and John M. C. Plane},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {Kinetic studies of atmospherically relevant silicon chemistry. {P}art {II}: {S}ilicon monoxide reactions},
 volume = {11},
 pages = {10945-10954},
@@ -3502,7 +3502,7 @@ year = {2009}
 
 @article{Becerra05,
 author = {Rosa Becerra and Sarah-Jane Bowes and J. Steven Ogden and J. Pat Cannady and Ivana Adamovic and Mark S. Gordon and Matthew J. Almond and Robin Walsh},
-journal = {Phys. Chem. Chem. Phys.},
+journal = {Physical Chemistry Chemical Physics},
 title = {Time-resolved gas-phase kinetic and quantum chemical studies of the reaction of silylene with oxygen},
 volume = {7},
 pages = {2900-2908},
@@ -3511,7 +3511,7 @@ year = {2005}
 
 @article{Turner98,
 author = {B. E. Turner},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {The Physics and Chemistry of Small Translucent Molecular Clouds. {X}. {SiO}},
 volume = {495},
 pages = {804-820},
@@ -3528,7 +3528,7 @@ year = {2013}
 
 @article{Valencia20,
 author = {E. Michael Valencia and Charlie J. Worth and Ryan C. Fortenberry},
-journal = {Mon. Not. R. Astron. Soc.},
+journal = {Monthly Notices of the Royal Astronomical Society},
 title = {Enstatite ({MgSiO$_3$}) and forsterite ({Mg$_2$SiO$_4$}) monomers and dimers: highly detectable infrared and radioastronomical molecular building blocks},
 volume = {492},
 pages = {276-282},
@@ -3537,7 +3537,7 @@ year = {2020}
 
 @article{Pluth85,
 author = {J. J. Pluth and J. V. Smith and J. Faber},
-journal = {J. Appl. Phys.},
+journal = {Journal of Applied Physics},
 title = {Crystal structure of low cristobalite at 10, 293, and 473 {K}: {V}ariation of framework geometry with temperature},
 volume = {57},
 pages = {1045-1049},
@@ -3546,7 +3546,7 @@ year = {1985}
 
 @article{Barth32,
 author = {T. F. W. Barth},
-journal = {Am. J. Sci.},
+journal = {American Journal of Science},
 title = {The cristobalite structures},
 volume = {s5-23},
 pages = {350-356},
@@ -3555,7 +3555,7 @@ year = {1932}
 
 @article{Dollase67,
 author = {W. A. Dollase},
-journal = {Acta Crystallogr.},
+journal = {Acta Crystallographica},
 title = {The Crystal Structure at 220$\degree${C} of Orthorhombic High Tridymite from the {S}teinbach Meteorite},
 volume = {23},
 pages = {617-623},
@@ -3564,7 +3564,7 @@ year = {1967}
 
 @article{Wyckoff25,
 author = {R. W. G. Wyckoff},
-journal = {Am. J. Sci.},
+journal = {American Journal of Science},
 title = {Crystal structure of high temperature cristobalite},
 volume = {s5-9},
 pages = {448-459},
@@ -3573,7 +3573,7 @@ year = {1925}
 
 @article{Peacor72,
 author = {Donald R. Peacor},
-journal = {Z. Kristallogr.},
+journal = {Zeitschrift fur Kristallographie},
 title = {High-temperature single-crystal study of the cristobalite inversion},
 volume = {138},
 pages = {274-298},
@@ -3582,7 +3582,7 @@ year = {1972}
 
 @article{Lovas92,
 author = {F. J. Lovas and R. D. Suenram and T. Ogata and S. Yamamoto},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Microwave spectra and electric dipole moments for low-{J} levels of interstellar radicals: {SO}, {C$_2$S}, {C$_3$S}, \textit{c}-{HC$_3$}, {CH$_2$CC}, and \textit{c}-{C$_3$H$_2$}},
 volume = {399},
 pages = {325},
@@ -3591,7 +3591,7 @@ year = {1992}
 
 @article{Dunham37,
 author = {T. Dunham},
-journal = {Publ. Astron. Soc. Pac.},
+journal = {Publications of the Astronomical Society of the Pacific},
 title = {Interstellar Neutral Potassium and Neutral Calcium},
 volume = {49},
 pages = {26},
@@ -3600,7 +3600,7 @@ year = {1937}
 
 @article{Dickens97,
 author = {J. E. Dickens and W. M. Irvine and M. Ohishi and M. Ikeda and S. Ishikawa and A. Nummelin and {\AA}. Hjalmarson},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Detection of Interstellar Ethylene Oxide (\textit{c}-{C$_2$H$_4$O})},
 volume = {489},
 pages = {753},
@@ -3609,7 +3609,7 @@ year = {1997}
 
 @article{Mehringer97,
 author = {David M. Mehringer and Lewis E. Snyder and Yanti Miao and Frank J. Lovas},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Detection and Conformation of Interstellar Acetic Acid},
 volume = {480},
 pages = {L71},
@@ -3618,7 +3618,7 @@ year = {1997}
 
 @article{Combes87,
 author = {F. Combes and M. Gerin and A. Wootten and G. Wlodarczak and F. Clausset and P. J. Encrenaz},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Acetone in interstellar space},
 volume = {180},
 pages = {L13-L16},
@@ -3627,7 +3627,7 @@ year = {1987}
 
 @article{Snyder02,
 author = {Lewis E. Snyder and F. J. Lovas and David M. Mehringer and Nina Yanti Miao and Yi-{J}ehng Kuan and J. M. Hollis and P. R. Jewell},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Confirmation of Interstellar Acetone},
 volume = {578},
 pages = {245-255},
@@ -3636,7 +3636,7 @@ year = {2002}
 
 @article{Turner01,
 author = {B. E. Turner and A. J. Apponi},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Microwave Detection of Interstellar Vinyl Alcohol, {CH$_2$CHOH}},
 volume = {561},
 pages = {L207-L210},
@@ -3658,13 +3658,13 @@ address = {New York, NY}
 @article{Flint23b,
 author = {Athena R. Flint and Blake N. Rodgers and Ryan C. Fortenberry},
 title = {Interstellar formation of functionalized cyclopropenes},
-journal = {Mon. Not. R. Astron. Soc.},
+journal = {Monthly Notices of the Royal Astronomical Society},
 year = {2023}
 }
 
 @article{Muller05,
 author = {Holger S. P. M\"{u}ller and Frank Schl\"{o}der and J\"{u}rgen Stutzki and Gisbert Winnewisser},
-journal = {J. Mol. Struct.},
+journal = {Journal of Molecular Structure},
 title = {The {C}ologne {D}atabase for {M}olecular {S}pectroscopy, {CDMS}: a useful tool for astronomers and spectroscopists},
 volume = {742},
 pages = {215-227},
@@ -3682,7 +3682,7 @@ year = {1973}
 
 @article{Wyrowski06,
 author = {F. Wyrowski and K. M. Menten and P. Schilke and S. Thorwirth and R. G\"{u}sten and P. Bergman},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Revealing the environs of the remarkable southern hot core {G327.3–0.6}},
 volume = {454},
 pages = {L91-L94},
@@ -3691,7 +3691,7 @@ year = {2006}
 
 @article{Heyer87,
 author = {Mark H. Heyer and Frederick J. Vrba and Ronald L. Snell and F. P. Schloerb and Stephen E. Strom amd Paul F. Goldsmith and Karen M. Strom},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {The magnetic evolution of the {T}aurus molecular clouds. {I} - {L}arge-scale properties},
 volume = {321},
 pages = {855-876},
@@ -3700,7 +3700,7 @@ year = {1987}
 
 @article{Kekker09,
 author = {Rita Kakkar and Sheza Zaidi and Rajni Grover},
-journal = {Int. J. Quantum Chem.},
+journal = {International Journal of Quantum Chemistry},
 title = {The {C}urtius rearrangement of some organic azides: {A} {DFT} mechanistic study},
 volume = {109},
 pages = {1058-1069},
@@ -3709,7 +3709,7 @@ year = {2009}
 
 @article{Heard18,
 author = {Dwayne E. Heard},
-journal = {Acc. Chem. Res.},
+journal = {Accounts of Chemical Research},
 title = {Rapid Acceleration of Hydrogen Atom Abstraction Reactions of {OH} at Very Low Temperatures through Weakly Bound Complexes and Tunneling},
 volume = {51},
 pages = {2620-2627},
@@ -3718,7 +3718,7 @@ year = {2018}
 
 @article{Shannon13,
 author = {Robin J. Shannon and Mark A. Blitz and Andrew Goddard and Dwayne E. Heard},
-journal = {Nat. Chem.},
+journal = {Nature Chemistry},
 title = {Accelerated chemistry in the reaction between the hydroxyl radical and methanol at interstellar temperatures facilitated by tunnelling},
 volume = {5},
 pages = {745-749},
@@ -3727,7 +3727,7 @@ year = {2013}
 
 @article{Molster02,
 author = {F. J. Molster and L. B. F. M. Waters and A. G. G. M. Tielens and C. Koike and H. Chihara},
-journal = {Astron. Astrophys.},
+journal = {Astronomy and Astrophysics},
 title = {Crystalline silicate dust around evolved stars. {III}. {A} correlations study of crystalline silicate features},
 volume = {382},
 pages = {241-255},
@@ -3736,7 +3736,7 @@ year = {2002}
 
 @article{Zhang19,
 author = {Weiwei Zhang and Yubing Si and Junfeng Zhen and Tao Chen and Harold Linnartz and Alexander G. G. M. Tielens},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Laboratory Photochemistry of Covalently Bonded Fluorene Clusters: {O}bservation of an Interesting {PAH} Bowl-forming Mechanism},
 volume = {872},
 pages = {38},
@@ -3745,7 +3745,7 @@ year = {2019}
 
 @article{Scott97,
 author = {A. Scott and W. W. Duley and G. P. Pinho},
-journal = {Astrophys. J.},
+journal = {Astrophysical Journal},
 title = {Polycyclic Aromatic Hydrocarbons and Fullerenes as Decomposition Products of Hydrogenated Amorphous Carbon},
 volume = {489},
 pages = {L193-L195},
@@ -3763,9 +3763,4 @@ year = {2022}
 
 @article{Tielens13,
 author = {A. G. G. M. Tielens},
-journal = {Rev. Mod. Phys.},
-title = {The molecular universe},
-volume = {85},
-pages = {1021-1081},
-year = {2013}
-}
+journal = {Reviews of Modern Physics}
