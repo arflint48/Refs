@@ -74,3 +74,4 @@ Frontiers in Space Technologies = FrST
 Space Science Reviews = SSRv
 Angewandte Chemie International Edition = AngCh
 Angewandte Chemie = AngCh
+Planetary and Space Science = P\&SS
