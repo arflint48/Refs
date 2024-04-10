@@ -1749,6 +1749,7 @@ Astronomische Nachrichten = Astron. Nachr.
 Astronomy & Geophysics = Astron. Geophys.
 Astronomy and Astrophysics = Astron. Astrophys.
 Astronomy and Astrophysics Review = Astron. Astrophys. Rev.
+Astronomy and Astrophysics Supplement Series = Astron. Astrophys. Suppl. Ser.
 Astronomy and Computing = Astron. Comput.
 Astronomy Education Review = Astron. Educ. Rev.
 Astronomy Letters = Astron. Lett.
