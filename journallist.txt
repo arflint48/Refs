@@ -13714,6 +13714,7 @@ Small = Small
 Small and Advanced Healthcare Materials = Small Adv. Healthcare Mater.
 Small Molecules = Small Mol.
 Smart Materials and Structures = Smart Mater. Struct.
+Smithsonian Contributions to the Earth Sciences = Smithsonian Contrib. Earth Sci.
 SMU Law Review = SMU Law Rev.
 Social and Rehabilitation Record = Soc. Rehabil. Rec.
 Social Biology = Soc. Biol.
