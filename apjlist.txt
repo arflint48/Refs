@@ -75,3 +75,4 @@ Space Science Reviews = SSRv
 Angewandte Chemie International Edition = AngCh
 Angewandte Chemie = AngCh
 Planetary and Space Science = P\&SS
+Meteoritics and Planetary Science = M&PS
