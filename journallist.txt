@@ -4497,6 +4497,7 @@ Electronic Journal of Severe Storms Metereology = Electron. J. Severe Storms Met
 Electronic Journal of Theoretical Chemistry = Electron. J. Theor. Chem.
 Electronic Materials Letters = Electron. Mater. Lett.
 Electronic Notes in Theoretical Computer Science = Electron. Notes Theor. Comput. Sci.
+Electronic Structure = Electron. Struct.
 Electronic Systems News = Electron. Syst. News
 Electronic Technology = Electron. Technol.
 Electronic Transactions on Numerical Analysis = Electron. Trans. Numer. Anal.
