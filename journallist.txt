@@ -13504,6 +13504,7 @@ Science and Technology of Advanced Materials = Sci. Technol. Adv. Mater.
 Science and Technology of Archaeological Research = Sci. Technol. Archaeolog. Res.
 Science and Technology of Energetic Materials = Sci. Technol. Energetic Mater.
 Science and Technology of Welding and Joining = Sci. Technol. Weld. Joining
+Science China Chemistry = Sci. China Chem.
 Science China Materials = Sci. China Mater.
 Science Digest = Sci. Dig.
 Science et Recherche Odontostomatologiques = Sci. Rech. Odontostomatol.
